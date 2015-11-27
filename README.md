@@ -1,5 +1,5 @@
-Yii2 Payment Icons Assets
-=========================
+Yii2 Payment Icons Asset
+========================
 
 **Payment Icons assets for Yii2**
 

@@ -2,7 +2,7 @@ package:
     type:           yii2-extension
     name:           yii2-asset-payment-icons
     namespace:      hiqdev\yii2\assets\paymenticons
-    headline:       Yii2 Payment Icons Assets
+    headline:       Yii2 Payment Icons Asset
     title:          Payment Icons assets for Yii2
     keywords:       payment, icons, merchant, assets, yii2, extension
     description:    |
