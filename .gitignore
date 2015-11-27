@@ -1,0 +1,29 @@
+# vendor dirs
+vendor
+
+# composer lock files
+composer.lock
+
+# hidev internals
+.hidev/composer.json
+.hidev/composer.lock
+.hidev/vendor
+
+# IDE & OS files
+.*.swp
+.idea
+nbproject
+.buildpath
+.project
+.settings
+Thumbs.db
+.DS_Store
+
+# phpunit generated files
+coverage.clover
+
+# Codeception generated files
+tests/_support/_generated
+
+# php-cs-fixer cache
+.php_cs.cache
