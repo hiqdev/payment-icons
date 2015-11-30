@@ -9,14 +9,14 @@
  * @copyright Copyright (c) 2015, HiQDev (http://hiqdev.com/)
  */
 
-namespace hiqdev\yii2\assets\paymenticons;
+namespace hiqdev\paymenticons\yii2;
 
 class PaymentIconsAsset extends \yii\web\AssetBundle
 {
     /**
      * {@inheritdoc}
      */
-    public $sourcePath = '@hiqdev/yii2/assets/paymenticons/assets';
+    public $sourcePath = '@vendor/hiqdev/payment-icons/src/assets';
 
     public $css = [
         'css/payment-icons.css',
