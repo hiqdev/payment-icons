@@ -3,6 +3,9 @@ hiqdev/payment-icons commits history
 
 ## Under development
 
+
+## 0.0.1 2015-11-30
+
 - Added basics
     - 9cbecdc 2015-11-30 fixed yii2 to work (sol@hiqdev.com)
     - 402570f 2015-11-30 fixed yii2 asset to work (sol@hiqdev.com)
