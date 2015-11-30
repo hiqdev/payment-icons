@@ -1,11 +1,11 @@
 <?php
 
 /*
- * Yii2 asset for HiPanel logo and so on
+ * Set of icons for payment systems and methods
  *
- * @link      https://github.com/hiqdev/yii2-asset-hipanel
- * @package   yii2-asset-hipanel
- * @license   BSD-3-Clause
+ * @link      https://github.com/hiqdev/payment-icons
+ * @package   payment-icons
+ * @license   MIT
  * @copyright Copyright (c) 2015, HiQDev (http://hiqdev.com/)
  */
 
