@@ -10,16 +10,28 @@
  */
 
 $list = scandir('src/assets/png/xs');
+$hw = [
+    'xs' => "height: 38px; width: 60px;",
+    'sm' => "height: 75px; width: 120px;",
+    'md' => "height: 240px; width: 150px;",
+    'lg' => "height: 480px; width: 300px;",
+];
+print ".pi { display: inline-block;height: 38px;width: 60px; }\n";
 
-foreach (['xs', 'sm', 'md', 'lg'] as $size) {
+foreach (array_keys($hw) as $size) {
+    print ".pi.pi-$size { $hw[$size] }\n";
+}
+foreach (array_keys($hw) as $size) {
     foreach ($list as $file) {
         if ($file[0] === '.') {
             continue;
         }
         $name = pathinfo($file)['filename'];
-        print ".payment-icon-$size.$name {
-    background: url('../png/$size/$name.png') no-repeat right;
-}\n";
+        if ($size == 'xs') {
+            print ".pi.pi-$size.pi-$name, .pi.pi-$name { background: url('../png/$size/$name.png') no-repeat right; }\n";
+        } else {
+            print ".pi.pi-$size.pi-$name { background: url('../png/$size/$name.png') no-repeat right; }\n";
+        }
     }
     print "\n";
 }
