@@ -1,53 +1,38 @@
 {
-    "name": "hiqdev/yii2-asset-payment-icons",
-    "type": "yii2-extension",
-    "description": "Payment Icons assets for Yii2",
+    "name": "hiqdev/payment-icons",
+    "type": "library",
+    "description": "Set of icons for payment systems and methods",
     "keywords": [
         "payment",
         "icons",
         "merchant",
         "assets",
-        "yii2",
-        "extension"
+        "yii2"
     ],
-    "homepage": "https://github.com/hiqdev/yii2-asset-payment-icons",
-    "license": "BSD-3-Clause",
+    "homepage": "https://github.com/hiqdev/payment-icons",
+    "license": "MIT",
     "support": {
         "email": "support@hiqdev.com",
-        "source": "https://github.com/hiqdev/yii2-asset-payment-icons",
-        "issues": "https://github.com/hiqdev/yii2-asset-payment-icons/issues",
-        "wiki": "https://github.com/hiqdev/yii2-asset-payment-icons/wiki",
+        "source": "https://github.com/hiqdev/payment-icons",
+        "issues": "https://github.com/hiqdev/payment-icons/issues",
+        "wiki": "https://github.com/hiqdev/payment-icons/wiki",
         "forum": "http://forum.hiqdev.com/"
     },
     "authors": [
         {
+            "name": "Artem Ottoson",
+            "email": "mtema80@gmail.com",
+            "homepage": "http://artemottoson.com/"
+        },
+        {
             "name": "Andrii Vasyliev",
-            "role": "Project lead",
             "email": "sol@hiqdev.com",
             "homepage": "http://hipanel.com/"
-        },
-        {
-            "name": "Dmitry Naumenko",
-            "role": "Lead backend developer",
-            "email": "silverfire@hiqdev.com",
-            "homepage": "http://silverfire.me/"
-        },
-        {
-            "name": "Andrey Klochok",
-            "role": "Lead frontend developer",
-            "email": "tafid@hiqdev.com",
-            "homepage": "http://hiqdev.com/"
-        },
-        {
-            "name": "Yuriy Myronchuk",
-            "role": "QA Lead",
-            "email": "bladeroot@hiqdev.com",
-            "homepage": "http://hiqdev.com/"
         }
     ],
     "autoload": {
         "psr-4": {
-            "hiqdev\\yii2\\assets\\paymenticons\\": "src"
+            "hiqdev\\paymenticons\\": "src"
         }
     }
 }

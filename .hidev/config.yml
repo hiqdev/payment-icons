@@ -1,13 +1,39 @@
+vendor:
+    name:       hiqdev
+    title:      HiQDev
+    github:     https://github.com/hiqdev
+    homepage:   http://hiqdev.com/
+    forum:      http://forum.hiqdev.com/
+    email:      support@hiqdev.com
+    authors:
+        ottoson:
+            name:       Artem Ottoson
+            email:      mtema80@gmail.com
+            homepage:   http://artemottoson.com/
+        hiqsol:
+            name:       Andrii Vasyliev
+            email:      sol@hiqdev.com
+            github:     https://github.com/hiqsol
+            homepage:   http://hipanel.com/
+
 package:
-    type:           yii2-extension
-    name:           yii2-asset-payment-icons
-    namespace:      hiqdev\yii2\assets\paymenticons
-    headline:       Yii2 Payment Icons Asset
-    title:          Payment Icons assets for Yii2
-    keywords:       payment, icons, merchant, assets, yii2, extension
+    type:           library
+    name:           payment-icons
+    namespace:      hiqdev\paymenticons
+    headline:       Payment Icons
+    title:          Set of icons for payment systems and methods
+    license:        MIT
+    keywords:       payment, icons, merchant, assets, yii2
     description:    |
-        [Yii2](http://yiiframework.com) extension providing images for payment systems.
+        Provides:
+        - PNG icons in 4 sizes
+        - [Yii2](http://yiiframework.com) assets bundle
+        - else?
+
+        Acknowledgements
+        ----------------
+
+        Thanks to the author of the original icon set - [Artem Ottoson](https://www.behance.net/Ottoson).
 
 require:
     hiqdev/hidev-php:    "*"
-    hiqdev/hidev-hiqdev: "*"

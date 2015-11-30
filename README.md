@@ -1,35 +1,32 @@
-Yii2 Payment Icons Asset
-========================
+Payment Icons
+=============
 
-**Payment Icons assets for Yii2**
+**Set of icons for payment systems and methods**
 
-[![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-asset-payment-icons/v/stable)](//packagist.org/packages/hiqdev/yii2-asset-payment-icons)
-[![Total Downloads](https://poser.pugx.org/hiqdev/yii2-asset-payment-icons/downloads)](//packagist.org/packages/hiqdev/yii2-asset-payment-icons)
-[![Build Status](https://img.shields.io/travis/hiqdev/yii2-asset-payment-icons.svg)](http://travis-ci.org/hiqdev/yii2-asset-payment-icons)
+[![Latest Stable Version](https://poser.pugx.org/hiqdev/payment-icons/v/stable)](//packagist.org/packages/hiqdev/payment-icons)
+[![Total Downloads](https://poser.pugx.org/hiqdev/payment-icons/downloads)](//packagist.org/packages/hiqdev/payment-icons)
+[![Build Status](https://img.shields.io/travis/hiqdev/payment-icons.svg)](http://travis-ci.org/hiqdev/payment-icons)
 
-[Yii2](http://yiiframework.com) extension providing images for payment systems.
+Provides:
+- PNG icons in 4 sizes
+- [Yii2](http://yiiframework.com) assets bundle
+- else?
+
+Acknowledgements
+----------------
+
+Thanks to the author of the original icon set - [Artem Ottoson](https://www.behance.net/Ottoson).
 
 ## Installation
 
-The preferred way to install this yii2-extension is through [composer](http://getcomposer.org/download/).
-
-Either run
-
-```sh
-php composer.phar require "hiqdev/yii2-asset-payment-icons"
-```
-
-or add
-
-```json
-"hiqdev/yii2-asset-payment-icons": "*"
-```
-
-to the require section of your composer.json.
+This package can be installed as:
+- Bower package
+- NPM package
+- Composer package
 
 ## License
 
-This project is released under the terms of the BSD-3-Clause [license](LICENSE).
-Read more [here](http://choosealicense.com/licenses/bsd-3-clause).
+This project is released under the terms of the MIT [license](LICENSE).
+Read more [here](http://choosealicense.com/licenses/mit).
 
 Copyright © 2015, HiQDev (http://hiqdev.com/)

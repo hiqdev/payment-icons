@@ -1,5 +1,5 @@
-hiqdev/yii2-asset-payment-icons changelog
------------------------------------------
+hiqdev/payment-icons changelog
+------------------------------
 
 ## Under development
 
