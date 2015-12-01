@@ -18,6 +18,9 @@ class PaymentIconsAsset extends \yii\web\AssetBundle
      */
     public $sourcePath = '@vendor/hiqdev/payment-icons/src/assets';
 
+    /**
+     * {@inheritdoc}
+     */
     public $css = [
         'css/payment-icons.css',
     ];
