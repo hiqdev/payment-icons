@@ -16,22 +16,23 @@ $hw = [
     'md' => "height: 240px; width: 150px;",
     'lg' => "height: 480px; width: 300px;",
 ];
-print ".pi { display: inline-block;height: 38px;width: 60px; }\n";
+print ".pi { display: inline-block;height: 38px;width: 60px; }" . PHP_EOL;
 
 foreach (array_keys($hw) as $size) {
-    print ".pi.pi-$size { $hw[$size] }\n";
+    print ".pi.pi-$size { $hw[$size] }" . PHP_EOL;
 }
+
 foreach (array_keys($hw) as $size) {
     foreach ($list as $file) {
         if ($file[0] === '.') {
             continue;
         }
         $name = pathinfo($file)['filename'];
-        if ($size == 'xs') {
-            print ".pi.pi-$size.pi-$name, .pi.pi-$name { background: url('../png/$size/$name.png') no-repeat right; }\n";
+        if ($size === 'xs') {
+            print ".pi.pi-$size.pi-$name, .pi.pi-$name { background: url('../png/$size/$name.png') no-repeat right; }" . PHP_EOL;
         } else {
-            print ".pi.pi-$size.pi-$name { background: url('../png/$size/$name.png') no-repeat right; }\n";
+            print ".pi.pi-$size.pi-$name { background: url('../png/$size/$name.png') no-repeat right; }" . PHP_EOL;
         }
     }
-    print "\n";
+    print PHP_EOL;
 }
