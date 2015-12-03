@@ -8,6 +8,7 @@ Payment Icons
 [![Build Status](https://img.shields.io/travis/hiqdev/payment-icons.svg)](http://travis-ci.org/hiqdev/payment-icons)
 
 Provides:
+
 - PNG icons in 4 sizes: 60x38, 120x75, 240x150, 480x300
 - available as Bower, NPM and Composer packages
 - [Yii2](http://yiiframework.com) assets bundle
@@ -16,6 +17,12 @@ Provides:
 ## Acknowledgements
 
 Many thanks to the author of the original icon set - [Artem Ottoson](https://www.behance.net/Ottoson).
+
+## Disclaimer
+
+All used trademarks, brands and/or names are the property of their respective owners.
+The use of these trademarks, brands and/or names does not indicate endorsement
+of the property holder by us, nor vice versa.
 
 ## Installation
 
