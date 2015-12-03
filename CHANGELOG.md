@@ -3,6 +3,7 @@ hiqdev/payment-icons changelog
 
 ## Under development
 
+- Added brands disclaimer
 
 ## 0.0.2 2015-12-03
 

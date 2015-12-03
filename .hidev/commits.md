@@ -3,6 +3,8 @@ hiqdev/payment-icons commits history
 
 ## Under development
 
+- Added brands disclaimer
+    - d66ec20 2015-12-04 + disclaimer (sol@hiqdev.com)
 
 ## 0.0.2 2015-12-03
 
