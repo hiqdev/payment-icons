@@ -3,6 +3,7 @@ hiqdev/payment-icons commits history
 
 ## Under development
 
+    - 421ca74 2015-12-03 renamed maestro icons (sol@hiqdev.com)
     - d5f90ba 2015-12-01 Update PHPDoc in gencss (d.naumenko.a@gmail.com)
     - bda3ab3 2015-12-01 Update PHPDoc (d.naumenko.a@gmail.com)
     - e475751 2015-11-30 Fixed css (andreyklochok@gmail.com)
