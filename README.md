@@ -27,10 +27,10 @@ This package can be installed as:
 ## Example
 
 ```html
-<i class="pi pi-xs pi-visa">
-<i class="pi pi-sm pi-maestro">
-<i class="pi pi-md pi-paypal">
-<i class="pi pi-lg pi-webmoney">
+<i class="pi pi-xs pi-visa"></i>
+<i class="pi pi-sm pi-maestro"></i>
+<i class="pi pi-md pi-paypal"></i>
+<i class="pi pi-lg pi-webmoney"></i>
 ```
 
 ![xs](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/paypal.png)
