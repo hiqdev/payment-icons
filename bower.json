@@ -1,12 +1,21 @@
 {
-  "name": "payment-icons",
-  "author": "HiQDev",
-  "description": "Payment icons",
-  "keywords": [
-    "icons",
-    "logos",
-    "payment",
-    "systems"
-  ],
-  "license": "MIT"
+    "name": "payment-icons",
+    "author": "HiQDev",
+    "description": "Payment icons",
+    "keywords": [
+        "payment",
+        "systems",
+        "icons",
+        "logo"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/hiqdev/payment-icons",
+    "main": [
+		"src/assets/*"
+	],
+	"ignore": [
+		"*.md",
+		"*.yml",
+		"*.json"
+	]
 }
