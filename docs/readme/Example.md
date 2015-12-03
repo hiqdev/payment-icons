@@ -6,8 +6,8 @@
 <i class="pi pi-lg pi-webmoney">
 ```
 
-![xs](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/visa.png)
-![sm](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/sm/maestro.png)
-![md](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/md/paypal.png)
-![lg](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/webmoney.png)
+![xs](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/paypal.png)
+![sm](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/sm/webmoney.png)
+![md](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/md/maestro.png)
+![lg](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/visa.png)
 
