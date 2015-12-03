@@ -27,6 +27,7 @@ of the property holder by us, nor vice versa.
 ## Installation
 
 This package can be installed as:
+
 - Bower package `payment-icons`
 - NPM package `payment-icons`
 - Composer package `hiqdev/payment-icons`
