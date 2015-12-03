@@ -26,14 +26,17 @@ package:
     keywords:       payment, icons, merchant, assets, yii2
     description:    |
         Provides:
-        - PNG icons in 4 sizes
+        - PNG icons in 4 sizes: 60x38, 120x75, 240x150, 480x300
+        - available as Bower, NPM and Composer packages
         - [Yii2](http://yiiframework.com) assets bundle
         - else?
 
-        Acknowledgements
-        ----------------
-
-        Thanks to the author of the original icon set - [Artem Ottoson](https://www.behance.net/Ottoson).
+readme:
+    sections:
+        - Acknowledgements
+        - Installation
+        - Example
+        - License
 
 require:
     hiqdev/hidev-php:    "*"
