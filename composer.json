@@ -30,6 +30,9 @@
             "homepage": "http://hipanel.com/"
         }
     ],
+    "require-dev": {
+        "yiisoft/yii2": "^2.0"
+    },
     "autoload": {
         "psr-4": {
             "hiqdev\\paymenticons\\": "src"
