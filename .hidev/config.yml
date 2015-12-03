@@ -23,7 +23,7 @@ package:
     headline:       Payment Icons
     title:          Set of icons for payment systems and methods
     license:        MIT
-    keywords:       payment, icons, merchant, assets, yii2
+    keywords:       payment, systems, icons, logo, assets, yii2
     description:    |
         Provides:
         - PNG icons in 4 sizes: 60x38, 120x75, 240x150, 480x300

@@ -3,6 +3,8 @@ hiqdev/payment-icons commits history
 
 ## Under development
 
+- Added bower.json
+    - b1ee688 2015-12-03 actualized bower.json (sol@hiqdev.com)
 - Added tests
     - 7954865 2015-12-03 added tests (sol@hiqdev.com)
 - Added preview

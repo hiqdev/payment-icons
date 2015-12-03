@@ -3,6 +3,7 @@ hiqdev/payment-icons changelog
 
 ## Under development
 
+- Added bower.json
 - Added tests
 - Added preview
 
