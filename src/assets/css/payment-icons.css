@@ -33,7 +33,7 @@
 .pi.pi-xs.pi-ideal, .pi.pi-ideal { background: url('../png/xs/ideal.png') no-repeat right; }
 .pi.pi-xs.pi-interkassa, .pi.pi-interkassa { background: url('../png/xs/interkassa.png') no-repeat right; }
 .pi.pi-xs.pi-jcb, .pi.pi-jcb { background: url('../png/xs/jcb.png') no-repeat right; }
-.pi.pi-xs.pi-maestro1, .pi.pi-maestro1 { background: url('../png/xs/maestro1.png') no-repeat right; }
+.pi.pi-xs.pi-maestro, .pi.pi-maestro { background: url('../png/xs/maestro.png') no-repeat right; }
 .pi.pi-xs.pi-maestro2, .pi.pi-maestro2 { background: url('../png/xs/maestro2.png') no-repeat right; }
 .pi.pi-xs.pi-okpay, .pi.pi-okpay { background: url('../png/xs/okpay.png') no-repeat right; }
 .pi.pi-xs.pi-paxum, .pi.pi-paxum { background: url('../png/xs/paxum.png') no-repeat right; }
@@ -91,7 +91,7 @@
 .pi.pi-sm.pi-ideal { background: url('../png/sm/ideal.png') no-repeat right; }
 .pi.pi-sm.pi-interkassa { background: url('../png/sm/interkassa.png') no-repeat right; }
 .pi.pi-sm.pi-jcb { background: url('../png/sm/jcb.png') no-repeat right; }
-.pi.pi-sm.pi-maestro1 { background: url('../png/sm/maestro1.png') no-repeat right; }
+.pi.pi-sm.pi-maestro { background: url('../png/sm/maestro.png') no-repeat right; }
 .pi.pi-sm.pi-maestro2 { background: url('../png/sm/maestro2.png') no-repeat right; }
 .pi.pi-sm.pi-okpay { background: url('../png/sm/okpay.png') no-repeat right; }
 .pi.pi-sm.pi-paxum { background: url('../png/sm/paxum.png') no-repeat right; }
@@ -149,7 +149,7 @@
 .pi.pi-md.pi-ideal { background: url('../png/md/ideal.png') no-repeat right; }
 .pi.pi-md.pi-interkassa { background: url('../png/md/interkassa.png') no-repeat right; }
 .pi.pi-md.pi-jcb { background: url('../png/md/jcb.png') no-repeat right; }
-.pi.pi-md.pi-maestro1 { background: url('../png/md/maestro1.png') no-repeat right; }
+.pi.pi-md.pi-maestro { background: url('../png/md/maestro.png') no-repeat right; }
 .pi.pi-md.pi-maestro2 { background: url('../png/md/maestro2.png') no-repeat right; }
 .pi.pi-md.pi-okpay { background: url('../png/md/okpay.png') no-repeat right; }
 .pi.pi-md.pi-paxum { background: url('../png/md/paxum.png') no-repeat right; }
@@ -207,7 +207,7 @@
 .pi.pi-lg.pi-ideal { background: url('../png/lg/ideal.png') no-repeat right; }
 .pi.pi-lg.pi-interkassa { background: url('../png/lg/interkassa.png') no-repeat right; }
 .pi.pi-lg.pi-jcb { background: url('../png/lg/jcb.png') no-repeat right; }
-.pi.pi-lg.pi-maestro1 { background: url('../png/lg/maestro1.png') no-repeat right; }
+.pi.pi-lg.pi-maestro { background: url('../png/lg/maestro.png') no-repeat right; }
 .pi.pi-lg.pi-maestro2 { background: url('../png/lg/maestro2.png') no-repeat right; }
 .pi.pi-lg.pi-okpay { background: url('../png/lg/okpay.png') no-repeat right; }
 .pi.pi-lg.pi-paxum { background: url('../png/lg/paxum.png') no-repeat right; }
