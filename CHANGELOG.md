@@ -3,6 +3,8 @@ hiqdev/payment-icons changelog
 
 ## Under development
 
+- Added tests
+- Added preview
 
 ## 0.0.1 2015-11-30
 

@@ -3,6 +3,9 @@ hiqdev/payment-icons commits history
 
 ## Under development
 
+- Added tests
+    - 7954865 2015-12-03 added tests (sol@hiqdev.com)
+- Added preview
     - a4e6f17 2015-12-03 + preview (sol@hiqdev.com)
     - 421ca74 2015-12-03 renamed maestro icons (sol@hiqdev.com)
     - d5f90ba 2015-12-01 Update PHPDoc in gencss (d.naumenko.a@gmail.com)
