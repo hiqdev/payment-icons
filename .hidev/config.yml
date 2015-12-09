@@ -21,16 +21,20 @@ package:
     name:           payment-icons
     namespace:      hiqdev\paymenticons
     headline:       Payment Icons
-    title:          Set of icons for payment systems and methods
+    title:          50+ icons for payment systems and methods
     license:        MIT
     keywords:       payment, systems, icons, logo, assets, yii2
     description:    |
-        Provides:
+        **Provides**:
 
         - PNG icons in 4 sizes: 60x38, 120x75, 240x150, 480x300
         - available as Bower, NPM and Composer packages
         - [Yii2](http://yiiframework.com) assets bundle
         - else?
+
+        **Todo**:
+
+        - redo to SVG
 
 readme:
     sections:

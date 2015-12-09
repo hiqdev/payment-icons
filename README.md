@@ -1,18 +1,22 @@
 Payment Icons
 =============
 
-**Set of icons for payment systems and methods**
+**50+ icons for payment systems and methods**
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/payment-icons/v/stable)](https://packagist.org/packages/hiqdev/payment-icons)
 [![Total Downloads](https://poser.pugx.org/hiqdev/payment-icons/downloads)](https://packagist.org/packages/hiqdev/payment-icons)
 [![Build Status](https://img.shields.io/travis/hiqdev/payment-icons.svg)](https://travis-ci.org/hiqdev/payment-icons)
 
-Provides:
+**Provides**:
 
 - PNG icons in 4 sizes: 60x38, 120x75, 240x150, 480x300
 - available as Bower, NPM and Composer packages
 - [Yii2](http://yiiframework.com) assets bundle
 - else?
+
+**Todo**:
+
+- redo to SVG
 
 ## Acknowledgements
 
