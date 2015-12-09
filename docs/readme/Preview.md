@@ -56,4 +56,4 @@
 ![worldpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/worldpay.png)
 ![yandexmoney](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/yandexmoney.png)
 
-[SM](docs/PreviewSM.md) | [MD](docs/PreviewMD.md) | [LG](docs/PreviewLG.md)
+[XS](docs/PreviewXS.md) | [SM](docs/PreviewSM.md) | [MD](docs/PreviewMD.md) | [LG](docs/PreviewLG.md)

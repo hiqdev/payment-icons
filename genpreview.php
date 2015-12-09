@@ -27,10 +27,8 @@ foreach ($sizes as $size) {
     if ($size === 'xs') {
         $ps = [];
         foreach ($sizes as $s) {
-            if ($s != 'xs') {
-                $us = strtoupper($s);
-                $ps[] = "[$us](docs/Preview$us.md)";
-            }
+            $us = strtoupper($s);
+            $ps[] = "[$us](docs/Preview$us.md)";
         }
         $str .= "\n" . implode(' | ', $ps);
         file_put_contents('./docs/readme/Preview.md', $str);
