@@ -55,5 +55,3 @@
 ![wirecard](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/wirecard.png)
 ![worldpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/worldpay.png)
 ![yandexmoney](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/yandexmoney.png)
-
-[Preview SM](docs/PreviewSM.md) [Preview MD](docs/PreviewMD.md) [Preview LG](docs/PreviewLG.md) 
