@@ -106,6 +106,8 @@ This package can be installed as:
 ![worldpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/worldpay.png)
 ![yandexmoney](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/yandexmoney.png)
 
+[Preview SM](docs/PreviewSM.md) [Preview MD](docs/PreviewMD.md) [Preview LG](docs/PreviewLG.md)
+
 ## License
 
 This project is released under the terms of the MIT [license](LICENSE).

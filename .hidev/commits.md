@@ -3,6 +3,7 @@ hiqdev/payment-icons commits history
 
 ## Under development
 
+    - f8111ac 2015-12-09 + more priview (sol@hiqdev.com)
 - Added icons for: ecoin, epayments, epayservice, interkassa, paxum, qiwi, robokassa
     - 68c31d8 2015-12-09 + preview for new icons (sol@hiqdev.com)
     - 0c852e1 2015-12-08 Add new icons (andreyklochok@gmail.com)
