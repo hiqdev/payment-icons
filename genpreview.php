@@ -25,13 +25,14 @@ foreach ($sizes as $size) {
     }
     file_put_contents('./docs/Preview' . strtoupper($size) . '.md', $str);
     if ($size === 'xs') {
-        $str .= "\n";
+        $ps = [];
         foreach ($sizes as $s) {
             if ($s != 'xs') {
                 $us = strtoupper($s);
-                $str .= "[Preview $us](docs/Preview$us.md) ";
+                $ps[] = "[$us](docs/Preview$us.md)";
             }
         }
+        $str .= "\n" . implode(' | ', $ps);
         file_put_contents('./docs/readme/Preview.md', $str);
     }
 }
