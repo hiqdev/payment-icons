@@ -7,6 +7,7 @@ hiqdev/payment-icons commits history
 ## 0.0.3 2015-12-15
 
 - Added NPM package.json
+    - 6f5197c 2015-12-15 fixed package.json (sol@hiqdev.com)
     - 1f93f8c 2015-12-15 + package.json (sol@hiqdev.com)
 - Fixed Qiwi and Paxum sm icons
     - 4356e10 2015-12-15 fixed tests (sol@hiqdev.com)
