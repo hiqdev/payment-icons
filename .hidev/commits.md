@@ -3,6 +3,8 @@ hiqdev/payment-icons commits history
 
 ## Under development
 
+- Fixed Qiwi and Paxum sm icons
+    - 99368e4 2015-12-09 Fix qiwi and paxum in sm (andreyklochok@gmail.com)
 - Added better previews
     - f7d4400 2015-12-09 better preview (sol@hiqdev.com)
     - f8111ac 2015-12-09 + more priview (sol@hiqdev.com)

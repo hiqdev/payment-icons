@@ -3,6 +3,7 @@ hiqdev/payment-icons changelog
 
 ## Under development
 
+- Fixed Qiwi and Paxum sm icons
 - Added better previews
 - Added icons for: ecoin, epayments, epayservice, interkassa, paxum, qiwi, robokassa
 - Added brands disclaimer
