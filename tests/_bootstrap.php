@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Set of icons for payment systems and methods
+ * 50+ icons for payment systems and methods
  *
  * @link      https://github.com/hiqdev/payment-icons
  * @package   payment-icons
