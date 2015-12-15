@@ -3,7 +3,12 @@ hiqdev/payment-icons commits history
 
 ## Under development
 
+
+## 0.0.3 2015-12-15
+
 - Fixed Qiwi and Paxum sm icons
+    - 4356e10 2015-12-15 fixed tests (sol@hiqdev.com)
+    - 091f097 2015-12-15 php-cs-fixed (sol@hiqdev.com)
     - 99368e4 2015-12-09 Fix qiwi and paxum in sm (andreyklochok@gmail.com)
 - Added better previews
     - f7d4400 2015-12-09 better preview (sol@hiqdev.com)
