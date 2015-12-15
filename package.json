@@ -1,0 +1,42 @@
+{
+    "name": "paymentfont",
+    "description": "Payment Icons - 50+ icons for payment systems and methods",
+    "version": "0.0.3",
+    "keywords": [
+        "payment",
+        "systems",
+        "icons",
+        "logo"
+    ],
+    "homepage": "http://github.com/hiqdev/payment-icons",
+    "bugs": {
+        "url" : "http://github.com/hiqdev/payment-icons/issues"
+    },
+    "author": {
+        "name": "HiQDev",
+        "web": "http://hiqdev.com/",
+        "email": "support@hiqdev.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hiqdev/payment-icons.git"
+    },
+    "contributors": [
+        {
+            "name": "Artem Ottoson",
+            "email": "mtema80@gmail.com",
+            "web": "http://artemottoson.com/"
+        },
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "web": "http://hipanel.com/"
+        }
+    ],
+    "dependencies": {
+    },
+    "engines" : {
+        "node" : ">=0.10.3"
+    },
+    "license" : "MIT"
+}
