@@ -6,6 +6,7 @@ hiqdev/payment-icons changelog
 
 ## 0.0.3 2015-12-15
 
+- Added NPM package.json
 - Fixed Qiwi and Paxum sm icons
 - Added better previews
 - Added icons for: ecoin, epayments, epayservice, interkassa, paxum, qiwi, robokassa
