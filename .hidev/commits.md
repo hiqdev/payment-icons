@@ -1,9 +1,6 @@
 hiqdev/payment-icons commits history
 ------------------------------------
 
-## Under development
-
-
 ## 0.0.3 2015-12-15
 
 - Added NPM package.json

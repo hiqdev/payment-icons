@@ -19,11 +19,11 @@ vendor:
 package:
     type:           library
     name:           payment-icons
-    namespace:      hiqdev\paymenticons
-    headline:       Payment Icons
     title:          50+ icons for payment systems and methods
     license:        MIT
+    headline:       Payment Icons
     keywords:       payment, systems, icons, logo, assets, yii2
+    namespace:      hiqdev\paymenticons
     description:    |
         **Provides**:
 

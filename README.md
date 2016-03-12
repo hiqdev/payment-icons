@@ -6,6 +6,8 @@ Payment Icons
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/payment-icons/v/stable)](https://packagist.org/packages/hiqdev/payment-icons)
 [![Total Downloads](https://poser.pugx.org/hiqdev/payment-icons/downloads)](https://packagist.org/packages/hiqdev/payment-icons)
 [![Build Status](https://img.shields.io/travis/hiqdev/payment-icons.svg)](https://travis-ci.org/hiqdev/payment-icons)
+[![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/hiqdev/payment-icons.svg)](https://scrutinizer-ci.com/g/hiqdev/payment-icons/)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/hiqdev/payment-icons.svg)](https://scrutinizer-ci.com/g/hiqdev/payment-icons/)
 
 **Provides**:
 
@@ -117,4 +119,4 @@ This package can be installed as:
 This project is released under the terms of the MIT [license](LICENSE).
 Read more [here](http://choosealicense.com/licenses/mit).
 
-Copyright © 2015, HiQDev (http://hiqdev.com/)
+Copyright © 2015-2016, HiQDev (http://hiqdev.com/)
