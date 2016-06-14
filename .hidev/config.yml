@@ -45,5 +45,5 @@ readme:
         - Preview
         - License
 
-require:
+plugins:
     hiqdev/hidev-php:    "*"
