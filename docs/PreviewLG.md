@@ -30,6 +30,7 @@
 ![jcb](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/jcb.png)
 ![maestro](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/maestro.png)
 ![maestro2](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/maestro2.png)
+![mastercard](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/mastercard.png)
 ![okpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/okpay.png)
 ![paxum](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/paxum.png)
 ![payoneer](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/payoneer.png)
