@@ -53,11 +53,17 @@
     "require-dev": {
         "yiisoft/yii2": "^2.0",
         "hiqdev/hidev-php": "<2.0",
-        "hiqdev/hidev-vendor": "<2.0"
+        "hiqdev/hidev-hiqdev": "<2.0"
     },
     "autoload": {
         "psr-4": {
             "hiqdev\\paymenticons\\": "src"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
 }

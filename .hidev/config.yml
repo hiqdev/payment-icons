@@ -1,20 +1,9 @@
 vendor:
-    name:       hiqdev
-    title:      HiQDev
-    github:     https://github.com/hiqdev
-    homepage:   http://hiqdev.com/
-    forum:      http://forum.hiqdev.com/
-    email:      support@hiqdev.com
     authors:
         ottoson:
             name:       Artem Ottoson
             email:      mtema80@gmail.com
             homepage:   http://artemottoson.com/
-        hiqsol:
-            name:       Andrii Vasyliev
-            email:      sol@hiqdev.com
-            github:     https://github.com/hiqsol
-            homepage:   http://hipanel.com/
 
 package:
     type:           library
@@ -27,7 +16,7 @@ package:
     description:    |
         **Provides**:
 
-        - PNG icons in 4 sizes: 60x38, 120x75, 240x150, 480x300
+        - 50+ PNG icons in 4 sizes: 60x38, 120x75, 240x150, 480x300
         - available as Bower, NPM and Composer packages
         - [Yii2](http://yiiframework.com) assets bundle
         - else?
@@ -45,5 +34,10 @@ readme:
         - Preview
         - License
 
-plugins:
-    hiqdev/hidev-php:    "*"
+do:
+    class: hiqdev\paymenticons\console\DoController
+
+build:
+    before:
+        - do/write-css
+        - do/write-previews
