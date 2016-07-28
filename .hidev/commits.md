@@ -1,6 +1,12 @@
 hiqdev/payment-icons commits history
 ------------------------------------
 
+## 0.0.4 2016-07-28
+
+- Added MasterCard icon (#1)
+    - aad778b 2016-07-28 Added MasterCard icon (d.naumenko.a@gmail.com)
+    - d7ab10a 2016-06-14 csfixed (sol@hiqdev.com)
+
 ## 0.0.3 2015-12-15
 
 - Added NPM package.json

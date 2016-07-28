@@ -1,6 +1,10 @@
 hiqdev/payment-icons changelog
 ------------------------------
 
+## 0.0.4 2016-07-28
+
+- Added MasterCard icon (#1)
+
 ## 0.0.3 2015-12-15
 
 - Added NPM package.json
