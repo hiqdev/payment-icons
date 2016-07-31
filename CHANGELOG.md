@@ -1,7 +1,7 @@
 hiqdev/payment-icons commits history
 ------------------------------------
 
-## [Under development]
+## [0.1.0] - 2016-08-01
 
 - Added use of `chkipper`
 - Added automation for CSS and preview generation

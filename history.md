@@ -1,9 +1,10 @@
 hiqdev/payment-icons commits history
 ------------------------------------
 
-## [Under development]
+## [0.1.0] - 2016-08-01
 
 - Added use of `chkipper`
+    - [f980e55] 2016-08-01 switched to `chkipper` [sol@hiqdev.com]
     - [a19c541] 2016-07-29 fixed build and README [sol@hiqdev.com]
 - Added automation for CSS and preview generation
     - [33b494b] 2016-08-01 CSS and preview generation moved to default goal [sol@hiqdev.com]
@@ -93,3 +94,4 @@ hiqdev/payment-icons commits history
 [73f9443]: https://github.com/hiqdev/payment-icons/commit/73f9443
 [a9022d9]: https://github.com/hiqdev/payment-icons/commit/a9022d9
 [33b494b]: https://github.com/hiqdev/payment-icons/commit/33b494b
+[f980e55]: https://github.com/hiqdev/payment-icons/commit/f980e55
