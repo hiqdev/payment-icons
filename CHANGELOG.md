@@ -1,11 +1,16 @@
-hiqdev/payment-icons changelog
-------------------------------
+hiqdev/payment-icons commits history
+------------------------------------
 
-## 0.0.4 2016-07-28
+## [Under development]
 
-- Added MasterCard icon (#1)
+- Added use of `chkipper`
+- Added automation for CSS and preview generation
 
-## 0.0.3 2015-12-15
+## [0.0.4] - 2016-07-28
+
+- Added MasterCard icon
+
+## [0.0.3] - 2016-03-12
 
 - Added NPM package.json
 - Fixed Qiwi and Paxum sm icons
@@ -13,15 +18,14 @@ hiqdev/payment-icons changelog
 - Added icons for: ecoin, epayments, epayservice, interkassa, paxum, qiwi, robokassa
 - Added brands disclaimer
 
-## 0.0.2 2015-12-03
+## [0.0.2] - 2015-12-03
 
 - Added bower.json
 - Added tests
 - Added preview
 
-## 0.0.1 2015-11-30
+## [0.0.1] - 2015-11-30
 
 - Added basics
 
-## Development started 2015-08-14
-
+## [Development started] - 2015-11-27
