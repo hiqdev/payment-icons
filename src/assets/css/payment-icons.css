@@ -60,6 +60,7 @@
 .pi.pi-xs.pi-westernunion, .pi.pi-westernunion { background: url('../png/xs/westernunion.png') no-repeat right; }
 .pi.pi-xs.pi-wirecard, .pi.pi-wirecard { background: url('../png/xs/wirecard.png') no-repeat right; }
 .pi.pi-xs.pi-worldpay, .pi.pi-worldpay { background: url('../png/xs/worldpay.png') no-repeat right; }
+.pi.pi-xs.pi-yandex, .pi.pi-yandex { background: url('../png/xs/yandex.png') no-repeat right; }
 .pi.pi-xs.pi-yandexmoney, .pi.pi-yandexmoney { background: url('../png/xs/yandexmoney.png') no-repeat right; }
 
 .pi.pi-sm.pi-alipay { background: url('../png/sm/alipay.png') no-repeat right; }
@@ -119,6 +120,7 @@
 .pi.pi-sm.pi-westernunion { background: url('../png/sm/westernunion.png') no-repeat right; }
 .pi.pi-sm.pi-wirecard { background: url('../png/sm/wirecard.png') no-repeat right; }
 .pi.pi-sm.pi-worldpay { background: url('../png/sm/worldpay.png') no-repeat right; }
+.pi.pi-sm.pi-yandex { background: url('../png/sm/yandex.png') no-repeat right; }
 .pi.pi-sm.pi-yandexmoney { background: url('../png/sm/yandexmoney.png') no-repeat right; }
 
 .pi.pi-md.pi-alipay { background: url('../png/md/alipay.png') no-repeat right; }
@@ -178,6 +180,7 @@
 .pi.pi-md.pi-westernunion { background: url('../png/md/westernunion.png') no-repeat right; }
 .pi.pi-md.pi-wirecard { background: url('../png/md/wirecard.png') no-repeat right; }
 .pi.pi-md.pi-worldpay { background: url('../png/md/worldpay.png') no-repeat right; }
+.pi.pi-md.pi-yandex { background: url('../png/md/yandex.png') no-repeat right; }
 .pi.pi-md.pi-yandexmoney { background: url('../png/md/yandexmoney.png') no-repeat right; }
 
 .pi.pi-lg.pi-alipay { background: url('../png/lg/alipay.png') no-repeat right; }
@@ -237,5 +240,6 @@
 .pi.pi-lg.pi-westernunion { background: url('../png/lg/westernunion.png') no-repeat right; }
 .pi.pi-lg.pi-wirecard { background: url('../png/lg/wirecard.png') no-repeat right; }
 .pi.pi-lg.pi-worldpay { background: url('../png/lg/worldpay.png') no-repeat right; }
+.pi.pi-lg.pi-yandex { background: url('../png/lg/yandex.png') no-repeat right; }
 .pi.pi-lg.pi-yandexmoney { background: url('../png/lg/yandexmoney.png') no-repeat right; }
 
