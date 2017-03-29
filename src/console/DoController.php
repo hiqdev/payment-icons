@@ -15,11 +15,59 @@ use Yii;
 
 class DoController extends \yii\console\Controller
 {
+    private $iconsList;
+    private $uniqueIconsList;
+
     /**
      * Returns list of icons.
+     * @return array file path => name
+     */
+    public function getUniqueIconsList()
+    {
+        if ($this->uniqueIconsList === null) {
+            $this->uniqueIconsList = $this->fetchUniqueIconsList();
+        }
+
+        return $this->uniqueIconsList;
+    }
+
+    /**
+     * Fetches list of unique icons.
      * @return array
      */
+    public function fetchUniqueIconsList()
+    {
+        $md5s = [];
+        foreach ($this->getIconsList() as $path => $name) {
+            $hash = md5_file($path);
+            if (in_array($hash, $md5s, true)) {
+                continue;
+            }
+            $md5s[$path] = $hash;
+            $list[$path] = $name;
+        }
+
+        return $list;
+    }
+
+    /**
+     * Returns list of icons.
+     * @return array file path => name
+     */
     public function getIconsList()
+    {
+        if ($this->iconsList === null) {
+            $this->iconsList = $this->fetchIconsList();
+        }
+
+        return $this->iconsList;
+    }
+
+    /**
+     * Scans directory to prepare list of icons.
+     * @return array
+     */
+    public function fetchIconsList()
     {
         $dir = Yii::getAlias('@hiqdev/paymenticons/assets/png/xs');
         $files = scandir($dir);
@@ -29,7 +77,7 @@ class DoController extends \yii\console\Controller
                 continue;
             }
             $name = pathinfo($file)['filename'];
-            $list[$name] = $name;
+            $list["$dir/$file"] = $name;
         }
 
         return $list;
@@ -84,7 +132,7 @@ class DoController extends \yii\console\Controller
 
         foreach ($sizes as $size) {
             $str = '';
-            foreach ($this->getIconsList() as $name) {
+            foreach ($this->getUniqueIconsList() as $name) {
                 $str .= "![$name](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/$size/$name.png)\n";
             }
             FileHelper::write('@hiqdev/paymenticons/../docs/Preview' . strtoupper($size) . '.md', $str);

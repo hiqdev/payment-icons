@@ -112,7 +112,6 @@ NPM package `payment-icons` is another similar project with fewer but SVG icons.
 ![wirecard](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/wirecard.png)
 ![worldpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/worldpay.png)
 ![yandex](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/yandex.png)
-![yandexmoney](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/yandexmoney.png)
 
 [XS](docs/PreviewXS.md) | [SM](docs/PreviewSM.md) | [MD](docs/PreviewMD.md) | [LG](docs/PreviewLG.md)
 
@@ -216,7 +215,6 @@ NPM package `payment-icons` is another similar project with fewer but SVG icons.
 ![wirecard](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/wirecard.png)
 ![worldpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/worldpay.png)
 ![yandex](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/yandex.png)
-![yandexmoney](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/yandexmoney.png)
 
 [XS](docs/PreviewXS.md) | [SM](docs/PreviewSM.md) | [MD](docs/PreviewMD.md) | [LG](docs/PreviewLG.md)
 
