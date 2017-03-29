@@ -1,5 +1,8 @@
-hiqdev/payment-icons commits history
-------------------------------------
+# hiqdev/payment-icons
+
+## [0.1.2] - 2017-03-29
+
+- Removed duplicated icons from preview ([@hiqsol])
 
 ## [0.1.1] - 2017-03-28
 
@@ -44,10 +47,11 @@ hiqdev/payment-icons commits history
 [andreyklochok@gmail.com]: https://github.com/tafid
 [@BladeRoot]: https://github.com/BladeRoot
 [bladeroot@gmail.com]: https://github.com/BladeRoot
-[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.0...HEAD
+[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.1...HEAD
 [0.1.0]: https://github.com/hiqdev/payment-icons/compare/0.0.4...0.1.0
 [0.0.4]: https://github.com/hiqdev/payment-icons/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/hiqdev/payment-icons/compare/0.0.2...0.0.3
 [0.0.2]: https://github.com/hiqdev/payment-icons/compare/0.0.1...0.0.2
 [0.0.1]: https://github.com/hiqdev/payment-icons/releases/tag/0.0.1
 [0.1.1]: https://github.com/hiqdev/payment-icons/compare/0.1.0...0.1.1
+[0.1.2]: https://github.com/hiqdev/payment-icons/compare/0.1.1...0.1.2

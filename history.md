@@ -1,5 +1,12 @@
-hiqdev/payment-icons commits history
-------------------------------------
+# hiqdev/payment-icons
+
+## [0.1.2] - 2017-03-29
+
+- Removed duplicated icons from preview
+    - [7b1cff3] 2017-03-29 removed doubling in README [@hiqsol]
+    - [c75d22a] 2017-03-29 removed duplicated icons from preview [@hiqsol]
+    - [c7748b8] 2017-03-29 csfixed [@hiqsol]
+    - [a5847c7] 2017-03-29 added forbidden yandex pngs [@hiqsol]
 
 ## [0.1.1] - 2017-03-28
 
@@ -111,10 +118,15 @@ hiqdev/payment-icons commits history
 [33b494b]: https://github.com/hiqdev/payment-icons/commit/33b494b
 [f980e55]: https://github.com/hiqdev/payment-icons/commit/f980e55
 [b2f9775]: https://github.com/hiqdev/payment-icons/commit/b2f9775
-[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.0...HEAD
+[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.1...HEAD
 [0.1.0]: https://github.com/hiqdev/payment-icons/compare/0.0.4...0.1.0
 [0.0.4]: https://github.com/hiqdev/payment-icons/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/hiqdev/payment-icons/compare/0.0.2...0.0.3
 [0.0.2]: https://github.com/hiqdev/payment-icons/compare/0.0.1...0.0.2
 [0.0.1]: https://github.com/hiqdev/payment-icons/releases/tag/0.0.1
 [0.1.1]: https://github.com/hiqdev/payment-icons/compare/0.1.0...0.1.1
+[7b1cff3]: https://github.com/hiqdev/payment-icons/commit/7b1cff3
+[c75d22a]: https://github.com/hiqdev/payment-icons/commit/c75d22a
+[c7748b8]: https://github.com/hiqdev/payment-icons/commit/c7748b8
+[a5847c7]: https://github.com/hiqdev/payment-icons/commit/a5847c7
+[0.1.2]: https://github.com/hiqdev/payment-icons/compare/0.1.1...0.1.2
