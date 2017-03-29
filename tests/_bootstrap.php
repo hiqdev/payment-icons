@@ -1,10 +1,10 @@
 <?php
 /**
- * PHPUnit plugin for HiDev.
+ * 50+ icons for payment systems and methods
  *
- * @link      https://github.com/hiqdev/hidev-phpunit
- * @package   hidev-phpunit
- * @license   BSD-3-Clause
+ * @link      https://github.com/hiqdev/payment-icons
+ * @package   payment-icons
+ * @license   MIT
  * @copyright Copyright (c) 2015-2017, HiQDev (http://hiqdev.com/)
  */
 
@@ -15,7 +15,6 @@ require_once __DIR__ . '/../vendor/yiisoft/yii2/Yii.php';
 Yii::setAlias('@vendor', dirname(__DIR__) . '/vendor');
 Yii::setAlias('@hiqdev/yii2/paymenticons', dirname(__DIR__));
 Yii::setAlias('@hiqdev/yii2/paymenticons/tests', __DIR__);
-
 
 /*
  * Ensures compatibility with PHPUnit 6.x

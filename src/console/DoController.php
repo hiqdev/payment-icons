@@ -1,12 +1,11 @@
 <?php
-
-/*
+/**
  * 50+ icons for payment systems and methods
  *
  * @link      https://github.com/hiqdev/payment-icons
  * @package   payment-icons
  * @license   MIT
- * @copyright Copyright (c) 2015-2016, HiQDev (http://hiqdev.com/)
+ * @copyright Copyright (c) 2015-2017, HiQDev (http://hiqdev.com/)
  */
 
 namespace hiqdev\paymenticons\console;
