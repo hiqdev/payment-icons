@@ -1,5 +1,11 @@
 # hiqdev/payment-icons
 
+## [0.1.3] - 2017-03-30
+
+- Added **FreeKassa**
+    - [77fe9a4] 2017-03-30 added preview for freekassa [@hiqsol]
+    - [7f34b95] 2017-03-30 Added Free-Kassa [@tafid]
+
 ## [0.1.2] - 2017-03-29
 
 - Removed duplicated icons from preview
@@ -36,7 +42,7 @@
     - [9e6ae1b] 2016-03-12 rehideved [@hiqsol]
     - [6f5197c] 2015-12-15 fixed package.json [@hiqsol]
     - [1f93f8c] 2015-12-15 + package.json [@hiqsol]
-- Fixed Qiwi and Paxum sm icons
+- Fixed **Qiwi** and **Paxum** sm icons
     - [4356e10] 2015-12-15 fixed tests [@hiqsol]
     - [091f097] 2015-12-15 php-cs-fixed [@hiqsol]
     - [99368e4] 2015-12-09 Fix qiwi and paxum in sm [@tafid]
@@ -118,7 +124,7 @@
 [33b494b]: https://github.com/hiqdev/payment-icons/commit/33b494b
 [f980e55]: https://github.com/hiqdev/payment-icons/commit/f980e55
 [b2f9775]: https://github.com/hiqdev/payment-icons/commit/b2f9775
-[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.1...HEAD
+[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.2...HEAD
 [0.1.0]: https://github.com/hiqdev/payment-icons/compare/0.0.4...0.1.0
 [0.0.4]: https://github.com/hiqdev/payment-icons/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/hiqdev/payment-icons/compare/0.0.2...0.0.3
@@ -130,3 +136,6 @@
 [c7748b8]: https://github.com/hiqdev/payment-icons/commit/c7748b8
 [a5847c7]: https://github.com/hiqdev/payment-icons/commit/a5847c7
 [0.1.2]: https://github.com/hiqdev/payment-icons/compare/0.1.1...0.1.2
+[77fe9a4]: https://github.com/hiqdev/payment-icons/commit/77fe9a4
+[7f34b95]: https://github.com/hiqdev/payment-icons/commit/7f34b95
+[0.1.3]: https://github.com/hiqdev/payment-icons/compare/0.1.2...0.1.3
