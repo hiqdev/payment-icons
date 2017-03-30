@@ -23,6 +23,7 @@
 ![epayservice](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/epayservice.png)
 ![eps](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/eps.png)
 ![eway](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/eway.png)
+![freekassa](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/freekassa.png)
 ![giropay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/giropay.png)
 ![hsbc](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/hsbc.png)
 ![ideal](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/ideal.png)
