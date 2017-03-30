@@ -28,6 +28,7 @@
 .pi.pi-xs.pi-epayservice, .pi.pi-epayservice { background: url('../png/xs/epayservice.png') no-repeat right; }
 .pi.pi-xs.pi-eps, .pi.pi-eps { background: url('../png/xs/eps.png') no-repeat right; }
 .pi.pi-xs.pi-eway, .pi.pi-eway { background: url('../png/xs/eway.png') no-repeat right; }
+.pi.pi-xs.pi-freekassa, .pi.pi-freekassa { background: url('../png/xs/freekassa.png') no-repeat right; }
 .pi.pi-xs.pi-giropay, .pi.pi-giropay { background: url('../png/xs/giropay.png') no-repeat right; }
 .pi.pi-xs.pi-hsbc, .pi.pi-hsbc { background: url('../png/xs/hsbc.png') no-repeat right; }
 .pi.pi-xs.pi-ideal, .pi.pi-ideal { background: url('../png/xs/ideal.png') no-repeat right; }
@@ -88,6 +89,7 @@
 .pi.pi-sm.pi-epayservice { background: url('../png/sm/epayservice.png') no-repeat right; }
 .pi.pi-sm.pi-eps { background: url('../png/sm/eps.png') no-repeat right; }
 .pi.pi-sm.pi-eway { background: url('../png/sm/eway.png') no-repeat right; }
+.pi.pi-sm.pi-freekassa { background: url('../png/sm/freekassa.png') no-repeat right; }
 .pi.pi-sm.pi-giropay { background: url('../png/sm/giropay.png') no-repeat right; }
 .pi.pi-sm.pi-hsbc { background: url('../png/sm/hsbc.png') no-repeat right; }
 .pi.pi-sm.pi-ideal { background: url('../png/sm/ideal.png') no-repeat right; }
@@ -148,6 +150,7 @@
 .pi.pi-md.pi-epayservice { background: url('../png/md/epayservice.png') no-repeat right; }
 .pi.pi-md.pi-eps { background: url('../png/md/eps.png') no-repeat right; }
 .pi.pi-md.pi-eway { background: url('../png/md/eway.png') no-repeat right; }
+.pi.pi-md.pi-freekassa { background: url('../png/md/freekassa.png') no-repeat right; }
 .pi.pi-md.pi-giropay { background: url('../png/md/giropay.png') no-repeat right; }
 .pi.pi-md.pi-hsbc { background: url('../png/md/hsbc.png') no-repeat right; }
 .pi.pi-md.pi-ideal { background: url('../png/md/ideal.png') no-repeat right; }
@@ -208,6 +211,7 @@
 .pi.pi-lg.pi-epayservice { background: url('../png/lg/epayservice.png') no-repeat right; }
 .pi.pi-lg.pi-eps { background: url('../png/lg/eps.png') no-repeat right; }
 .pi.pi-lg.pi-eway { background: url('../png/lg/eway.png') no-repeat right; }
+.pi.pi-lg.pi-freekassa { background: url('../png/lg/freekassa.png') no-repeat right; }
 .pi.pi-lg.pi-giropay { background: url('../png/lg/giropay.png') no-repeat right; }
 .pi.pi-lg.pi-hsbc { background: url('../png/lg/hsbc.png') no-repeat right; }
 .pi.pi-lg.pi-ideal { background: url('../png/lg/ideal.png') no-repeat right; }
