@@ -60,6 +60,11 @@
             "hiqdev\\paymenticons\\": "src"
         }
     },
+    "extra": {
+        "config-plugin": {
+            "console": "src/config/console.php"
+        }
+    },
     "repositories": [
         {
             "type": "composer",

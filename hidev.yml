@@ -34,9 +34,6 @@ readme:
         - Preview
         - License
 
-do:
-    class: hiqdev\paymenticons\console\DoController
-
 default:
     before:
         - do/write-css
