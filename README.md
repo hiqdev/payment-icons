@@ -54,12 +54,14 @@ NPM package `payment-icons` is another similar project with fewer but SVG icons.
 
 ## Preview
 
+![advcash](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/advcash.png)
 ![alipay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/alipay.png)
 ![amazon](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/amazon.png)
 ![americanexpress](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/americanexpress.png)
 ![bancontact](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/bancontact.png)
 ![bcc](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/bcc.png)
 ![bitcoin](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/bitcoin.png)
+![bitpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/bitpay.png)
 ![boleto](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/boleto.png)
 ![cartebleue](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/cartebleue.png)
 ![cirrus](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/cirrus.png)
@@ -85,6 +87,7 @@ NPM package `payment-icons` is another similar project with fewer but SVG icons.
 ![ideal](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/ideal.png)
 ![interkassa](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/interkassa.png)
 ![jcb](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/jcb.png)
+![litecoin](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/litecoin.png)
 ![maestro](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/maestro.png)
 ![maestro2](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/maestro2.png)
 ![mastercard](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/mastercard.png)
