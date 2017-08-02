@@ -1,5 +1,9 @@
 # hiqdev/payment-icons
 
+## [0.1.4] - 2017-08-02
+
+- Added **AdvCash**, **BitPay**, **litecoin** icons ([@SilverFire], [@hiqsol])
+
 ## [0.1.3] - 2017-03-30
 
 - Added **FreeKassa** ([@hiqsol], [@tafid])
@@ -51,7 +55,7 @@
 [andreyklochok@gmail.com]: https://github.com/tafid
 [@BladeRoot]: https://github.com/BladeRoot
 [bladeroot@gmail.com]: https://github.com/BladeRoot
-[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.2...HEAD
+[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.3...HEAD
 [0.1.0]: https://github.com/hiqdev/payment-icons/compare/0.0.4...0.1.0
 [0.0.4]: https://github.com/hiqdev/payment-icons/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/hiqdev/payment-icons/compare/0.0.2...0.0.3
@@ -60,3 +64,4 @@
 [0.1.1]: https://github.com/hiqdev/payment-icons/compare/0.1.0...0.1.1
 [0.1.2]: https://github.com/hiqdev/payment-icons/compare/0.1.1...0.1.2
 [0.1.3]: https://github.com/hiqdev/payment-icons/compare/0.1.2...0.1.3
+[0.1.4]: https://github.com/hiqdev/payment-icons/compare/0.1.3...0.1.4

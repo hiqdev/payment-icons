@@ -1,5 +1,12 @@
 # hiqdev/payment-icons
 
+## [0.1.4] - 2017-08-02
+
+- Added **AdvCash**, **BitPay**, **litecoin** icons
+    - [9ada0f4] 2017-08-02 Added AdvCash, BitPay, LiteCoin icons [@SilverFire]
+    - [e8499d3] 2017-08-02 Updated bitpay icon [@SilverFire]
+    - [5fdaaa3] 2017-08-02 fixed configs for hidev 0.6 [@hiqsol]
+
 ## [0.1.3] - 2017-03-30
 
 - Added **FreeKassa**
@@ -124,7 +131,7 @@
 [33b494b]: https://github.com/hiqdev/payment-icons/commit/33b494b
 [f980e55]: https://github.com/hiqdev/payment-icons/commit/f980e55
 [b2f9775]: https://github.com/hiqdev/payment-icons/commit/b2f9775
-[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.2...HEAD
+[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.3...HEAD
 [0.1.0]: https://github.com/hiqdev/payment-icons/compare/0.0.4...0.1.0
 [0.0.4]: https://github.com/hiqdev/payment-icons/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/hiqdev/payment-icons/compare/0.0.2...0.0.3
@@ -139,3 +146,7 @@
 [77fe9a4]: https://github.com/hiqdev/payment-icons/commit/77fe9a4
 [7f34b95]: https://github.com/hiqdev/payment-icons/commit/7f34b95
 [0.1.3]: https://github.com/hiqdev/payment-icons/compare/0.1.2...0.1.3
+[e8499d3]: https://github.com/hiqdev/payment-icons/commit/e8499d3
+[9ada0f4]: https://github.com/hiqdev/payment-icons/commit/9ada0f4
+[5fdaaa3]: https://github.com/hiqdev/payment-icons/commit/5fdaaa3
+[0.1.4]: https://github.com/hiqdev/payment-icons/compare/0.1.3...0.1.4
