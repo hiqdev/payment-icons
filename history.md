@@ -1,5 +1,10 @@
 # hiqdev/payment-icons
 
+## [Under development]
+
+- Added **2Checkout** **Assist**, **AuthorizeNet**, **BitcoinCash**, **Braintree**, **Dash**, **Ethereum**, **LIQPAY**, **Monero**, **Paysera**, **PayU**, **Stripe**, **Zcash** icons
+    - [86a9aa6] 2017-10-31 Added more payment systems [@SilverFire]
+
 ## [0.1.4] - 2017-08-02
 
 - Added **AdvCash**, **BitPay**, **litecoin** icons
@@ -131,7 +136,7 @@
 [33b494b]: https://github.com/hiqdev/payment-icons/commit/33b494b
 [f980e55]: https://github.com/hiqdev/payment-icons/commit/f980e55
 [b2f9775]: https://github.com/hiqdev/payment-icons/commit/b2f9775
-[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.3...HEAD
+[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.4...HEAD
 [0.1.0]: https://github.com/hiqdev/payment-icons/compare/0.0.4...0.1.0
 [0.0.4]: https://github.com/hiqdev/payment-icons/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/hiqdev/payment-icons/compare/0.0.2...0.0.3
@@ -150,3 +155,4 @@
 [9ada0f4]: https://github.com/hiqdev/payment-icons/commit/9ada0f4
 [5fdaaa3]: https://github.com/hiqdev/payment-icons/commit/5fdaaa3
 [0.1.4]: https://github.com/hiqdev/payment-icons/compare/0.1.3...0.1.4
+[86a9aa6]: https://github.com/hiqdev/payment-icons/commit/86a9aa6
