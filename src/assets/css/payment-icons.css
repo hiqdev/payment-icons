@@ -3,19 +3,25 @@
 .pi.pi-sm { height: 75px; width: 120px; }
 .pi.pi-md { height: 240px; width: 150px; }
 .pi.pi-lg { height: 480px; width: 300px; }
+.pi.pi-xs.pi-2co, .pi.pi-2co { background: url('../png/xs/2co.png') no-repeat right; }
 .pi.pi-xs.pi-advcash, .pi.pi-advcash { background: url('../png/xs/advcash.png') no-repeat right; }
 .pi.pi-xs.pi-alipay, .pi.pi-alipay { background: url('../png/xs/alipay.png') no-repeat right; }
 .pi.pi-xs.pi-amazon, .pi.pi-amazon { background: url('../png/xs/amazon.png') no-repeat right; }
 .pi.pi-xs.pi-americanexpress, .pi.pi-americanexpress { background: url('../png/xs/americanexpress.png') no-repeat right; }
+.pi.pi-xs.pi-assist, .pi.pi-assist { background: url('../png/xs/assist.png') no-repeat right; }
+.pi.pi-xs.pi-authorizenet, .pi.pi-authorizenet { background: url('../png/xs/authorizenet.png') no-repeat right; }
 .pi.pi-xs.pi-bancontact, .pi.pi-bancontact { background: url('../png/xs/bancontact.png') no-repeat right; }
 .pi.pi-xs.pi-bcc, .pi.pi-bcc { background: url('../png/xs/bcc.png') no-repeat right; }
 .pi.pi-xs.pi-bitcoin, .pi.pi-bitcoin { background: url('../png/xs/bitcoin.png') no-repeat right; }
+.pi.pi-xs.pi-bitcoincash, .pi.pi-bitcoincash { background: url('../png/xs/bitcoincash.png') no-repeat right; }
 .pi.pi-xs.pi-bitpay, .pi.pi-bitpay { background: url('../png/xs/bitpay.png') no-repeat right; }
 .pi.pi-xs.pi-boleto, .pi.pi-boleto { background: url('../png/xs/boleto.png') no-repeat right; }
+.pi.pi-xs.pi-braintree, .pi.pi-braintree { background: url('../png/xs/braintree.png') no-repeat right; }
 .pi.pi-xs.pi-cartebleue, .pi.pi-cartebleue { background: url('../png/xs/cartebleue.png') no-repeat right; }
 .pi.pi-xs.pi-cirrus, .pi.pi-cirrus { background: url('../png/xs/cirrus.png') no-repeat right; }
 .pi.pi-xs.pi-citibank, .pi.pi-citibank { background: url('../png/xs/citibank.png') no-repeat right; }
 .pi.pi-xs.pi-clickandbuy, .pi.pi-clickandbuy { background: url('../png/xs/clickandbuy.png') no-repeat right; }
+.pi.pi-xs.pi-dash, .pi.pi-dash { background: url('../png/xs/dash.png') no-repeat right; }
 .pi.pi-xs.pi-delta, .pi.pi-delta { background: url('../png/xs/delta.png') no-repeat right; }
 .pi.pi-xs.pi-dineromail, .pi.pi-dineromail { background: url('../png/xs/dineromail.png') no-repeat right; }
 .pi.pi-xs.pi-dinersclub, .pi.pi-dinersclub { background: url('../png/xs/dinersclub.png') no-repeat right; }
@@ -29,6 +35,7 @@
 .pi.pi-xs.pi-epayments, .pi.pi-epayments { background: url('../png/xs/epayments.png') no-repeat right; }
 .pi.pi-xs.pi-epayservice, .pi.pi-epayservice { background: url('../png/xs/epayservice.png') no-repeat right; }
 .pi.pi-xs.pi-eps, .pi.pi-eps { background: url('../png/xs/eps.png') no-repeat right; }
+.pi.pi-xs.pi-ethereum, .pi.pi-ethereum { background: url('../png/xs/ethereum.png') no-repeat right; }
 .pi.pi-xs.pi-eway, .pi.pi-eway { background: url('../png/xs/eway.png') no-repeat right; }
 .pi.pi-xs.pi-freekassa, .pi.pi-freekassa { background: url('../png/xs/freekassa.png') no-repeat right; }
 .pi.pi-xs.pi-giropay, .pi.pi-giropay { background: url('../png/xs/giropay.png') no-repeat right; }
@@ -36,15 +43,19 @@
 .pi.pi-xs.pi-ideal, .pi.pi-ideal { background: url('../png/xs/ideal.png') no-repeat right; }
 .pi.pi-xs.pi-interkassa, .pi.pi-interkassa { background: url('../png/xs/interkassa.png') no-repeat right; }
 .pi.pi-xs.pi-jcb, .pi.pi-jcb { background: url('../png/xs/jcb.png') no-repeat right; }
+.pi.pi-xs.pi-liqpay, .pi.pi-liqpay { background: url('../png/xs/liqpay.png') no-repeat right; }
 .pi.pi-xs.pi-litecoin, .pi.pi-litecoin { background: url('../png/xs/litecoin.png') no-repeat right; }
 .pi.pi-xs.pi-maestro, .pi.pi-maestro { background: url('../png/xs/maestro.png') no-repeat right; }
 .pi.pi-xs.pi-maestro2, .pi.pi-maestro2 { background: url('../png/xs/maestro2.png') no-repeat right; }
 .pi.pi-xs.pi-mastercard, .pi.pi-mastercard { background: url('../png/xs/mastercard.png') no-repeat right; }
+.pi.pi-xs.pi-monero, .pi.pi-monero { background: url('../png/xs/monero.png') no-repeat right; }
 .pi.pi-xs.pi-okpay, .pi.pi-okpay { background: url('../png/xs/okpay.png') no-repeat right; }
 .pi.pi-xs.pi-paxum, .pi.pi-paxum { background: url('../png/xs/paxum.png') no-repeat right; }
 .pi.pi-xs.pi-payoneer, .pi.pi-payoneer { background: url('../png/xs/payoneer.png') no-repeat right; }
 .pi.pi-xs.pi-paypal, .pi.pi-paypal { background: url('../png/xs/paypal.png') no-repeat right; }
 .pi.pi-xs.pi-paypoint, .pi.pi-paypoint { background: url('../png/xs/paypoint.png') no-repeat right; }
+.pi.pi-xs.pi-paysera, .pi.pi-paysera { background: url('../png/xs/paysera.png') no-repeat right; }
+.pi.pi-xs.pi-payu, .pi.pi-payu { background: url('../png/xs/payu.png') no-repeat right; }
 .pi.pi-xs.pi-payza, .pi.pi-payza { background: url('../png/xs/payza.png') no-repeat right; }
 .pi.pi-xs.pi-picknpay, .pi.pi-picknpay { background: url('../png/xs/picknpay.png') no-repeat right; }
 .pi.pi-xs.pi-postepay, .pi.pi-postepay { background: url('../png/xs/postepay.png') no-repeat right; }
@@ -53,6 +64,7 @@
 .pi.pi-xs.pi-robokassa, .pi.pi-robokassa { background: url('../png/xs/robokassa.png') no-repeat right; }
 .pi.pi-xs.pi-sage, .pi.pi-sage { background: url('../png/xs/sage.png') no-repeat right; }
 .pi.pi-xs.pi-skrill, .pi.pi-skrill { background: url('../png/xs/skrill.png') no-repeat right; }
+.pi.pi-xs.pi-stripe, .pi.pi-stripe { background: url('../png/xs/stripe.png') no-repeat right; }
 .pi.pi-xs.pi-switch1, .pi.pi-switch1 { background: url('../png/xs/switch1.png') no-repeat right; }
 .pi.pi-xs.pi-switch2, .pi.pi-switch2 { background: url('../png/xs/switch2.png') no-repeat right; }
 .pi.pi-xs.pi-todocash, .pi.pi-todocash { background: url('../png/xs/todocash.png') no-repeat right; }
@@ -66,20 +78,27 @@
 .pi.pi-xs.pi-worldpay, .pi.pi-worldpay { background: url('../png/xs/worldpay.png') no-repeat right; }
 .pi.pi-xs.pi-yandex, .pi.pi-yandex { background: url('../png/xs/yandex.png') no-repeat right; }
 .pi.pi-xs.pi-yandexmoney, .pi.pi-yandexmoney { background: url('../png/xs/yandexmoney.png') no-repeat right; }
+.pi.pi-xs.pi-zcash, .pi.pi-zcash { background: url('../png/xs/zcash.png') no-repeat right; }
 
+.pi.pi-sm.pi-2co { background: url('../png/sm/2co.png') no-repeat right; }
 .pi.pi-sm.pi-advcash { background: url('../png/sm/advcash.png') no-repeat right; }
 .pi.pi-sm.pi-alipay { background: url('../png/sm/alipay.png') no-repeat right; }
 .pi.pi-sm.pi-amazon { background: url('../png/sm/amazon.png') no-repeat right; }
 .pi.pi-sm.pi-americanexpress { background: url('../png/sm/americanexpress.png') no-repeat right; }
+.pi.pi-sm.pi-assist { background: url('../png/sm/assist.png') no-repeat right; }
+.pi.pi-sm.pi-authorizenet { background: url('../png/sm/authorizenet.png') no-repeat right; }
 .pi.pi-sm.pi-bancontact { background: url('../png/sm/bancontact.png') no-repeat right; }
 .pi.pi-sm.pi-bcc { background: url('../png/sm/bcc.png') no-repeat right; }
 .pi.pi-sm.pi-bitcoin { background: url('../png/sm/bitcoin.png') no-repeat right; }
+.pi.pi-sm.pi-bitcoincash { background: url('../png/sm/bitcoincash.png') no-repeat right; }
 .pi.pi-sm.pi-bitpay { background: url('../png/sm/bitpay.png') no-repeat right; }
 .pi.pi-sm.pi-boleto { background: url('../png/sm/boleto.png') no-repeat right; }
+.pi.pi-sm.pi-braintree { background: url('../png/sm/braintree.png') no-repeat right; }
 .pi.pi-sm.pi-cartebleue { background: url('../png/sm/cartebleue.png') no-repeat right; }
 .pi.pi-sm.pi-cirrus { background: url('../png/sm/cirrus.png') no-repeat right; }
 .pi.pi-sm.pi-citibank { background: url('../png/sm/citibank.png') no-repeat right; }
 .pi.pi-sm.pi-clickandbuy { background: url('../png/sm/clickandbuy.png') no-repeat right; }
+.pi.pi-sm.pi-dash { background: url('../png/sm/dash.png') no-repeat right; }
 .pi.pi-sm.pi-delta { background: url('../png/sm/delta.png') no-repeat right; }
 .pi.pi-sm.pi-dineromail { background: url('../png/sm/dineromail.png') no-repeat right; }
 .pi.pi-sm.pi-dinersclub { background: url('../png/sm/dinersclub.png') no-repeat right; }
@@ -93,6 +112,7 @@
 .pi.pi-sm.pi-epayments { background: url('../png/sm/epayments.png') no-repeat right; }
 .pi.pi-sm.pi-epayservice { background: url('../png/sm/epayservice.png') no-repeat right; }
 .pi.pi-sm.pi-eps { background: url('../png/sm/eps.png') no-repeat right; }
+.pi.pi-sm.pi-ethereum { background: url('../png/sm/ethereum.png') no-repeat right; }
 .pi.pi-sm.pi-eway { background: url('../png/sm/eway.png') no-repeat right; }
 .pi.pi-sm.pi-freekassa { background: url('../png/sm/freekassa.png') no-repeat right; }
 .pi.pi-sm.pi-giropay { background: url('../png/sm/giropay.png') no-repeat right; }
@@ -100,15 +120,19 @@
 .pi.pi-sm.pi-ideal { background: url('../png/sm/ideal.png') no-repeat right; }
 .pi.pi-sm.pi-interkassa { background: url('../png/sm/interkassa.png') no-repeat right; }
 .pi.pi-sm.pi-jcb { background: url('../png/sm/jcb.png') no-repeat right; }
+.pi.pi-sm.pi-liqpay { background: url('../png/sm/liqpay.png') no-repeat right; }
 .pi.pi-sm.pi-litecoin { background: url('../png/sm/litecoin.png') no-repeat right; }
 .pi.pi-sm.pi-maestro { background: url('../png/sm/maestro.png') no-repeat right; }
 .pi.pi-sm.pi-maestro2 { background: url('../png/sm/maestro2.png') no-repeat right; }
 .pi.pi-sm.pi-mastercard { background: url('../png/sm/mastercard.png') no-repeat right; }
+.pi.pi-sm.pi-monero { background: url('../png/sm/monero.png') no-repeat right; }
 .pi.pi-sm.pi-okpay { background: url('../png/sm/okpay.png') no-repeat right; }
 .pi.pi-sm.pi-paxum { background: url('../png/sm/paxum.png') no-repeat right; }
 .pi.pi-sm.pi-payoneer { background: url('../png/sm/payoneer.png') no-repeat right; }
 .pi.pi-sm.pi-paypal { background: url('../png/sm/paypal.png') no-repeat right; }
 .pi.pi-sm.pi-paypoint { background: url('../png/sm/paypoint.png') no-repeat right; }
+.pi.pi-sm.pi-paysera { background: url('../png/sm/paysera.png') no-repeat right; }
+.pi.pi-sm.pi-payu { background: url('../png/sm/payu.png') no-repeat right; }
 .pi.pi-sm.pi-payza { background: url('../png/sm/payza.png') no-repeat right; }
 .pi.pi-sm.pi-picknpay { background: url('../png/sm/picknpay.png') no-repeat right; }
 .pi.pi-sm.pi-postepay { background: url('../png/sm/postepay.png') no-repeat right; }
@@ -117,6 +141,7 @@
 .pi.pi-sm.pi-robokassa { background: url('../png/sm/robokassa.png') no-repeat right; }
 .pi.pi-sm.pi-sage { background: url('../png/sm/sage.png') no-repeat right; }
 .pi.pi-sm.pi-skrill { background: url('../png/sm/skrill.png') no-repeat right; }
+.pi.pi-sm.pi-stripe { background: url('../png/sm/stripe.png') no-repeat right; }
 .pi.pi-sm.pi-switch1 { background: url('../png/sm/switch1.png') no-repeat right; }
 .pi.pi-sm.pi-switch2 { background: url('../png/sm/switch2.png') no-repeat right; }
 .pi.pi-sm.pi-todocash { background: url('../png/sm/todocash.png') no-repeat right; }
@@ -130,20 +155,27 @@
 .pi.pi-sm.pi-worldpay { background: url('../png/sm/worldpay.png') no-repeat right; }
 .pi.pi-sm.pi-yandex { background: url('../png/sm/yandex.png') no-repeat right; }
 .pi.pi-sm.pi-yandexmoney { background: url('../png/sm/yandexmoney.png') no-repeat right; }
+.pi.pi-sm.pi-zcash { background: url('../png/sm/zcash.png') no-repeat right; }
 
+.pi.pi-md.pi-2co { background: url('../png/md/2co.png') no-repeat right; }
 .pi.pi-md.pi-advcash { background: url('../png/md/advcash.png') no-repeat right; }
 .pi.pi-md.pi-alipay { background: url('../png/md/alipay.png') no-repeat right; }
 .pi.pi-md.pi-amazon { background: url('../png/md/amazon.png') no-repeat right; }
 .pi.pi-md.pi-americanexpress { background: url('../png/md/americanexpress.png') no-repeat right; }
+.pi.pi-md.pi-assist { background: url('../png/md/assist.png') no-repeat right; }
+.pi.pi-md.pi-authorizenet { background: url('../png/md/authorizenet.png') no-repeat right; }
 .pi.pi-md.pi-bancontact { background: url('../png/md/bancontact.png') no-repeat right; }
 .pi.pi-md.pi-bcc { background: url('../png/md/bcc.png') no-repeat right; }
 .pi.pi-md.pi-bitcoin { background: url('../png/md/bitcoin.png') no-repeat right; }
+.pi.pi-md.pi-bitcoincash { background: url('../png/md/bitcoincash.png') no-repeat right; }
 .pi.pi-md.pi-bitpay { background: url('../png/md/bitpay.png') no-repeat right; }
 .pi.pi-md.pi-boleto { background: url('../png/md/boleto.png') no-repeat right; }
+.pi.pi-md.pi-braintree { background: url('../png/md/braintree.png') no-repeat right; }
 .pi.pi-md.pi-cartebleue { background: url('../png/md/cartebleue.png') no-repeat right; }
 .pi.pi-md.pi-cirrus { background: url('../png/md/cirrus.png') no-repeat right; }
 .pi.pi-md.pi-citibank { background: url('../png/md/citibank.png') no-repeat right; }
 .pi.pi-md.pi-clickandbuy { background: url('../png/md/clickandbuy.png') no-repeat right; }
+.pi.pi-md.pi-dash { background: url('../png/md/dash.png') no-repeat right; }
 .pi.pi-md.pi-delta { background: url('../png/md/delta.png') no-repeat right; }
 .pi.pi-md.pi-dineromail { background: url('../png/md/dineromail.png') no-repeat right; }
 .pi.pi-md.pi-dinersclub { background: url('../png/md/dinersclub.png') no-repeat right; }
@@ -157,6 +189,7 @@
 .pi.pi-md.pi-epayments { background: url('../png/md/epayments.png') no-repeat right; }
 .pi.pi-md.pi-epayservice { background: url('../png/md/epayservice.png') no-repeat right; }
 .pi.pi-md.pi-eps { background: url('../png/md/eps.png') no-repeat right; }
+.pi.pi-md.pi-ethereum { background: url('../png/md/ethereum.png') no-repeat right; }
 .pi.pi-md.pi-eway { background: url('../png/md/eway.png') no-repeat right; }
 .pi.pi-md.pi-freekassa { background: url('../png/md/freekassa.png') no-repeat right; }
 .pi.pi-md.pi-giropay { background: url('../png/md/giropay.png') no-repeat right; }
@@ -164,15 +197,19 @@
 .pi.pi-md.pi-ideal { background: url('../png/md/ideal.png') no-repeat right; }
 .pi.pi-md.pi-interkassa { background: url('../png/md/interkassa.png') no-repeat right; }
 .pi.pi-md.pi-jcb { background: url('../png/md/jcb.png') no-repeat right; }
+.pi.pi-md.pi-liqpay { background: url('../png/md/liqpay.png') no-repeat right; }
 .pi.pi-md.pi-litecoin { background: url('../png/md/litecoin.png') no-repeat right; }
 .pi.pi-md.pi-maestro { background: url('../png/md/maestro.png') no-repeat right; }
 .pi.pi-md.pi-maestro2 { background: url('../png/md/maestro2.png') no-repeat right; }
 .pi.pi-md.pi-mastercard { background: url('../png/md/mastercard.png') no-repeat right; }
+.pi.pi-md.pi-monero { background: url('../png/md/monero.png') no-repeat right; }
 .pi.pi-md.pi-okpay { background: url('../png/md/okpay.png') no-repeat right; }
 .pi.pi-md.pi-paxum { background: url('../png/md/paxum.png') no-repeat right; }
 .pi.pi-md.pi-payoneer { background: url('../png/md/payoneer.png') no-repeat right; }
 .pi.pi-md.pi-paypal { background: url('../png/md/paypal.png') no-repeat right; }
 .pi.pi-md.pi-paypoint { background: url('../png/md/paypoint.png') no-repeat right; }
+.pi.pi-md.pi-paysera { background: url('../png/md/paysera.png') no-repeat right; }
+.pi.pi-md.pi-payu { background: url('../png/md/payu.png') no-repeat right; }
 .pi.pi-md.pi-payza { background: url('../png/md/payza.png') no-repeat right; }
 .pi.pi-md.pi-picknpay { background: url('../png/md/picknpay.png') no-repeat right; }
 .pi.pi-md.pi-postepay { background: url('../png/md/postepay.png') no-repeat right; }
@@ -181,6 +218,7 @@
 .pi.pi-md.pi-robokassa { background: url('../png/md/robokassa.png') no-repeat right; }
 .pi.pi-md.pi-sage { background: url('../png/md/sage.png') no-repeat right; }
 .pi.pi-md.pi-skrill { background: url('../png/md/skrill.png') no-repeat right; }
+.pi.pi-md.pi-stripe { background: url('../png/md/stripe.png') no-repeat right; }
 .pi.pi-md.pi-switch1 { background: url('../png/md/switch1.png') no-repeat right; }
 .pi.pi-md.pi-switch2 { background: url('../png/md/switch2.png') no-repeat right; }
 .pi.pi-md.pi-todocash { background: url('../png/md/todocash.png') no-repeat right; }
@@ -194,20 +232,27 @@
 .pi.pi-md.pi-worldpay { background: url('../png/md/worldpay.png') no-repeat right; }
 .pi.pi-md.pi-yandex { background: url('../png/md/yandex.png') no-repeat right; }
 .pi.pi-md.pi-yandexmoney { background: url('../png/md/yandexmoney.png') no-repeat right; }
+.pi.pi-md.pi-zcash { background: url('../png/md/zcash.png') no-repeat right; }
 
+.pi.pi-lg.pi-2co { background: url('../png/lg/2co.png') no-repeat right; }
 .pi.pi-lg.pi-advcash { background: url('../png/lg/advcash.png') no-repeat right; }
 .pi.pi-lg.pi-alipay { background: url('../png/lg/alipay.png') no-repeat right; }
 .pi.pi-lg.pi-amazon { background: url('../png/lg/amazon.png') no-repeat right; }
 .pi.pi-lg.pi-americanexpress { background: url('../png/lg/americanexpress.png') no-repeat right; }
+.pi.pi-lg.pi-assist { background: url('../png/lg/assist.png') no-repeat right; }
+.pi.pi-lg.pi-authorizenet { background: url('../png/lg/authorizenet.png') no-repeat right; }
 .pi.pi-lg.pi-bancontact { background: url('../png/lg/bancontact.png') no-repeat right; }
 .pi.pi-lg.pi-bcc { background: url('../png/lg/bcc.png') no-repeat right; }
 .pi.pi-lg.pi-bitcoin { background: url('../png/lg/bitcoin.png') no-repeat right; }
+.pi.pi-lg.pi-bitcoincash { background: url('../png/lg/bitcoincash.png') no-repeat right; }
 .pi.pi-lg.pi-bitpay { background: url('../png/lg/bitpay.png') no-repeat right; }
 .pi.pi-lg.pi-boleto { background: url('../png/lg/boleto.png') no-repeat right; }
+.pi.pi-lg.pi-braintree { background: url('../png/lg/braintree.png') no-repeat right; }
 .pi.pi-lg.pi-cartebleue { background: url('../png/lg/cartebleue.png') no-repeat right; }
 .pi.pi-lg.pi-cirrus { background: url('../png/lg/cirrus.png') no-repeat right; }
 .pi.pi-lg.pi-citibank { background: url('../png/lg/citibank.png') no-repeat right; }
 .pi.pi-lg.pi-clickandbuy { background: url('../png/lg/clickandbuy.png') no-repeat right; }
+.pi.pi-lg.pi-dash { background: url('../png/lg/dash.png') no-repeat right; }
 .pi.pi-lg.pi-delta { background: url('../png/lg/delta.png') no-repeat right; }
 .pi.pi-lg.pi-dineromail { background: url('../png/lg/dineromail.png') no-repeat right; }
 .pi.pi-lg.pi-dinersclub { background: url('../png/lg/dinersclub.png') no-repeat right; }
@@ -221,6 +266,7 @@
 .pi.pi-lg.pi-epayments { background: url('../png/lg/epayments.png') no-repeat right; }
 .pi.pi-lg.pi-epayservice { background: url('../png/lg/epayservice.png') no-repeat right; }
 .pi.pi-lg.pi-eps { background: url('../png/lg/eps.png') no-repeat right; }
+.pi.pi-lg.pi-ethereum { background: url('../png/lg/ethereum.png') no-repeat right; }
 .pi.pi-lg.pi-eway { background: url('../png/lg/eway.png') no-repeat right; }
 .pi.pi-lg.pi-freekassa { background: url('../png/lg/freekassa.png') no-repeat right; }
 .pi.pi-lg.pi-giropay { background: url('../png/lg/giropay.png') no-repeat right; }
@@ -228,15 +274,19 @@
 .pi.pi-lg.pi-ideal { background: url('../png/lg/ideal.png') no-repeat right; }
 .pi.pi-lg.pi-interkassa { background: url('../png/lg/interkassa.png') no-repeat right; }
 .pi.pi-lg.pi-jcb { background: url('../png/lg/jcb.png') no-repeat right; }
+.pi.pi-lg.pi-liqpay { background: url('../png/lg/liqpay.png') no-repeat right; }
 .pi.pi-lg.pi-litecoin { background: url('../png/lg/litecoin.png') no-repeat right; }
 .pi.pi-lg.pi-maestro { background: url('../png/lg/maestro.png') no-repeat right; }
 .pi.pi-lg.pi-maestro2 { background: url('../png/lg/maestro2.png') no-repeat right; }
 .pi.pi-lg.pi-mastercard { background: url('../png/lg/mastercard.png') no-repeat right; }
+.pi.pi-lg.pi-monero { background: url('../png/lg/monero.png') no-repeat right; }
 .pi.pi-lg.pi-okpay { background: url('../png/lg/okpay.png') no-repeat right; }
 .pi.pi-lg.pi-paxum { background: url('../png/lg/paxum.png') no-repeat right; }
 .pi.pi-lg.pi-payoneer { background: url('../png/lg/payoneer.png') no-repeat right; }
 .pi.pi-lg.pi-paypal { background: url('../png/lg/paypal.png') no-repeat right; }
 .pi.pi-lg.pi-paypoint { background: url('../png/lg/paypoint.png') no-repeat right; }
+.pi.pi-lg.pi-paysera { background: url('../png/lg/paysera.png') no-repeat right; }
+.pi.pi-lg.pi-payu { background: url('../png/lg/payu.png') no-repeat right; }
 .pi.pi-lg.pi-payza { background: url('../png/lg/payza.png') no-repeat right; }
 .pi.pi-lg.pi-picknpay { background: url('../png/lg/picknpay.png') no-repeat right; }
 .pi.pi-lg.pi-postepay { background: url('../png/lg/postepay.png') no-repeat right; }
@@ -245,6 +295,7 @@
 .pi.pi-lg.pi-robokassa { background: url('../png/lg/robokassa.png') no-repeat right; }
 .pi.pi-lg.pi-sage { background: url('../png/lg/sage.png') no-repeat right; }
 .pi.pi-lg.pi-skrill { background: url('../png/lg/skrill.png') no-repeat right; }
+.pi.pi-lg.pi-stripe { background: url('../png/lg/stripe.png') no-repeat right; }
 .pi.pi-lg.pi-switch1 { background: url('../png/lg/switch1.png') no-repeat right; }
 .pi.pi-lg.pi-switch2 { background: url('../png/lg/switch2.png') no-repeat right; }
 .pi.pi-lg.pi-todocash { background: url('../png/lg/todocash.png') no-repeat right; }
@@ -258,4 +309,5 @@
 .pi.pi-lg.pi-worldpay { background: url('../png/lg/worldpay.png') no-repeat right; }
 .pi.pi-lg.pi-yandex { background: url('../png/lg/yandex.png') no-repeat right; }
 .pi.pi-lg.pi-yandexmoney { background: url('../png/lg/yandexmoney.png') no-repeat right; }
+.pi.pi-lg.pi-zcash { background: url('../png/lg/zcash.png') no-repeat right; }
 
