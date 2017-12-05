@@ -3,6 +3,7 @@
 .pi.pi-sm { height: 75px; width: 120px; }
 .pi.pi-md { height: 240px; width: 150px; }
 .pi.pi-lg { height: 480px; width: 300px; }
+.pi.pi-xs.pi-2checkout, .pi.pi-2checkout { background: url('../png/xs/2checkout.png') no-repeat right; }
 .pi.pi-xs.pi-2co, .pi.pi-2co { background: url('../png/xs/2co.png') no-repeat right; }
 .pi.pi-xs.pi-advcash, .pi.pi-advcash { background: url('../png/xs/advcash.png') no-repeat right; }
 .pi.pi-xs.pi-alipay, .pi.pi-alipay { background: url('../png/xs/alipay.png') no-repeat right; }
@@ -68,6 +69,7 @@
 .pi.pi-xs.pi-switch1, .pi.pi-switch1 { background: url('../png/xs/switch1.png') no-repeat right; }
 .pi.pi-xs.pi-switch2, .pi.pi-switch2 { background: url('../png/xs/switch2.png') no-repeat right; }
 .pi.pi-xs.pi-todocash, .pi.pi-todocash { background: url('../png/xs/todocash.png') no-repeat right; }
+.pi.pi-xs.pi-twoco, .pi.pi-twoco { background: url('../png/xs/twoco.png') no-repeat right; }
 .pi.pi-xs.pi-ukash, .pi.pi-ukash { background: url('../png/xs/ukash.png') no-repeat right; }
 .pi.pi-xs.pi-unionpay, .pi.pi-unionpay { background: url('../png/xs/unionpay.png') no-repeat right; }
 .pi.pi-xs.pi-verifiedbyvisa, .pi.pi-verifiedbyvisa { background: url('../png/xs/verifiedbyvisa.png') no-repeat right; }
@@ -80,6 +82,7 @@
 .pi.pi-xs.pi-yandexmoney, .pi.pi-yandexmoney { background: url('../png/xs/yandexmoney.png') no-repeat right; }
 .pi.pi-xs.pi-zcash, .pi.pi-zcash { background: url('../png/xs/zcash.png') no-repeat right; }
 
+.pi.pi-sm.pi-2checkout { background: url('../png/sm/2checkout.png') no-repeat right; }
 .pi.pi-sm.pi-2co { background: url('../png/sm/2co.png') no-repeat right; }
 .pi.pi-sm.pi-advcash { background: url('../png/sm/advcash.png') no-repeat right; }
 .pi.pi-sm.pi-alipay { background: url('../png/sm/alipay.png') no-repeat right; }
@@ -145,6 +148,7 @@
 .pi.pi-sm.pi-switch1 { background: url('../png/sm/switch1.png') no-repeat right; }
 .pi.pi-sm.pi-switch2 { background: url('../png/sm/switch2.png') no-repeat right; }
 .pi.pi-sm.pi-todocash { background: url('../png/sm/todocash.png') no-repeat right; }
+.pi.pi-sm.pi-twoco { background: url('../png/sm/twoco.png') no-repeat right; }
 .pi.pi-sm.pi-ukash { background: url('../png/sm/ukash.png') no-repeat right; }
 .pi.pi-sm.pi-unionpay { background: url('../png/sm/unionpay.png') no-repeat right; }
 .pi.pi-sm.pi-verifiedbyvisa { background: url('../png/sm/verifiedbyvisa.png') no-repeat right; }
@@ -157,6 +161,7 @@
 .pi.pi-sm.pi-yandexmoney { background: url('../png/sm/yandexmoney.png') no-repeat right; }
 .pi.pi-sm.pi-zcash { background: url('../png/sm/zcash.png') no-repeat right; }
 
+.pi.pi-md.pi-2checkout { background: url('../png/md/2checkout.png') no-repeat right; }
 .pi.pi-md.pi-2co { background: url('../png/md/2co.png') no-repeat right; }
 .pi.pi-md.pi-advcash { background: url('../png/md/advcash.png') no-repeat right; }
 .pi.pi-md.pi-alipay { background: url('../png/md/alipay.png') no-repeat right; }
@@ -222,6 +227,7 @@
 .pi.pi-md.pi-switch1 { background: url('../png/md/switch1.png') no-repeat right; }
 .pi.pi-md.pi-switch2 { background: url('../png/md/switch2.png') no-repeat right; }
 .pi.pi-md.pi-todocash { background: url('../png/md/todocash.png') no-repeat right; }
+.pi.pi-md.pi-twoco { background: url('../png/md/twoco.png') no-repeat right; }
 .pi.pi-md.pi-ukash { background: url('../png/md/ukash.png') no-repeat right; }
 .pi.pi-md.pi-unionpay { background: url('../png/md/unionpay.png') no-repeat right; }
 .pi.pi-md.pi-verifiedbyvisa { background: url('../png/md/verifiedbyvisa.png') no-repeat right; }
@@ -234,6 +240,7 @@
 .pi.pi-md.pi-yandexmoney { background: url('../png/md/yandexmoney.png') no-repeat right; }
 .pi.pi-md.pi-zcash { background: url('../png/md/zcash.png') no-repeat right; }
 
+.pi.pi-lg.pi-2checkout { background: url('../png/lg/2checkout.png') no-repeat right; }
 .pi.pi-lg.pi-2co { background: url('../png/lg/2co.png') no-repeat right; }
 .pi.pi-lg.pi-advcash { background: url('../png/lg/advcash.png') no-repeat right; }
 .pi.pi-lg.pi-alipay { background: url('../png/lg/alipay.png') no-repeat right; }
@@ -299,6 +306,7 @@
 .pi.pi-lg.pi-switch1 { background: url('../png/lg/switch1.png') no-repeat right; }
 .pi.pi-lg.pi-switch2 { background: url('../png/lg/switch2.png') no-repeat right; }
 .pi.pi-lg.pi-todocash { background: url('../png/lg/todocash.png') no-repeat right; }
+.pi.pi-lg.pi-twoco { background: url('../png/lg/twoco.png') no-repeat right; }
 .pi.pi-lg.pi-ukash { background: url('../png/lg/ukash.png') no-repeat right; }
 .pi.pi-lg.pi-unionpay { background: url('../png/lg/unionpay.png') no-repeat right; }
 .pi.pi-lg.pi-verifiedbyvisa { background: url('../png/lg/verifiedbyvisa.png') no-repeat right; }

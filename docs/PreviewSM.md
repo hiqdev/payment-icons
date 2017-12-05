@@ -1,4 +1,4 @@
-![2co](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/sm/2co.png)
+![2checkout](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/sm/2checkout.png)
 ![advcash](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/sm/advcash.png)
 ![alipay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/sm/alipay.png)
 ![amazon](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/sm/amazon.png)
