@@ -1,5 +1,9 @@
 # hiqdev/payment-icons
 
+## [0.1.6] - 2017-12-05
+
+    - [672c60d] 2017-12-05 Added aliases `2checkout` and `twoco` for 2Checkout payment system [@SilverFire]
+
 ## [0.1.5] - 2017-10-31
 
 - Added **2Checkout** **Assist**, **AuthorizeNet**, **BitcoinCash**, **Braintree**, **Dash**, **Ethereum**, **LIQPAY**, **Monero**, **Paysera**, **PayU**, **Stripe**, **Zcash** icons
@@ -136,7 +140,7 @@
 [33b494b]: https://github.com/hiqdev/payment-icons/commit/33b494b
 [f980e55]: https://github.com/hiqdev/payment-icons/commit/f980e55
 [b2f9775]: https://github.com/hiqdev/payment-icons/commit/b2f9775
-[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.4...HEAD
+[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.5...HEAD
 [0.1.0]: https://github.com/hiqdev/payment-icons/compare/0.0.4...0.1.0
 [0.0.4]: https://github.com/hiqdev/payment-icons/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/hiqdev/payment-icons/compare/0.0.2...0.0.3
@@ -157,3 +161,5 @@
 [0.1.4]: https://github.com/hiqdev/payment-icons/compare/0.1.3...0.1.4
 [86a9aa6]: https://github.com/hiqdev/payment-icons/commit/86a9aa6
 [0.1.5]: https://github.com/hiqdev/payment-icons/compare/0.1.4...0.1.5
+[672c60d]: https://github.com/hiqdev/payment-icons/commit/672c60d
+[0.1.6]: https://github.com/hiqdev/payment-icons/compare/0.1.5...0.1.6
