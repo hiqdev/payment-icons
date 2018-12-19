@@ -75,6 +75,7 @@
 .pi.pi-xs.pi-unionpay, .pi.pi-unionpay { background: url('../png/xs/unionpay.png') no-repeat right; }
 .pi.pi-xs.pi-verifiedbyvisa, .pi.pi-verifiedbyvisa { background: url('../png/xs/verifiedbyvisa.png') no-repeat right; }
 .pi.pi-xs.pi-visa, .pi.pi-visa { background: url('../png/xs/visa.png') no-repeat right; }
+.pi.pi-xs.pi-visaelectron, .pi.pi-visaelectron { background: url('../png/xs/visaelectron.png') no-repeat right; }
 .pi.pi-xs.pi-webmoney, .pi.pi-webmoney { background: url('../png/xs/webmoney.png') no-repeat right; }
 .pi.pi-xs.pi-westernunion, .pi.pi-westernunion { background: url('../png/xs/westernunion.png') no-repeat right; }
 .pi.pi-xs.pi-wirecard, .pi.pi-wirecard { background: url('../png/xs/wirecard.png') no-repeat right; }
@@ -155,6 +156,7 @@
 .pi.pi-sm.pi-unionpay { background: url('../png/sm/unionpay.png') no-repeat right; }
 .pi.pi-sm.pi-verifiedbyvisa { background: url('../png/sm/verifiedbyvisa.png') no-repeat right; }
 .pi.pi-sm.pi-visa { background: url('../png/sm/visa.png') no-repeat right; }
+.pi.pi-sm.pi-visaelectron { background: url('../png/sm/visaelectron.png') no-repeat right; }
 .pi.pi-sm.pi-webmoney { background: url('../png/sm/webmoney.png') no-repeat right; }
 .pi.pi-sm.pi-westernunion { background: url('../png/sm/westernunion.png') no-repeat right; }
 .pi.pi-sm.pi-wirecard { background: url('../png/sm/wirecard.png') no-repeat right; }
@@ -235,6 +237,7 @@
 .pi.pi-md.pi-unionpay { background: url('../png/md/unionpay.png') no-repeat right; }
 .pi.pi-md.pi-verifiedbyvisa { background: url('../png/md/verifiedbyvisa.png') no-repeat right; }
 .pi.pi-md.pi-visa { background: url('../png/md/visa.png') no-repeat right; }
+.pi.pi-md.pi-visaelectron { background: url('../png/md/visaelectron.png') no-repeat right; }
 .pi.pi-md.pi-webmoney { background: url('../png/md/webmoney.png') no-repeat right; }
 .pi.pi-md.pi-westernunion { background: url('../png/md/westernunion.png') no-repeat right; }
 .pi.pi-md.pi-wirecard { background: url('../png/md/wirecard.png') no-repeat right; }
@@ -315,6 +318,7 @@
 .pi.pi-lg.pi-unionpay { background: url('../png/lg/unionpay.png') no-repeat right; }
 .pi.pi-lg.pi-verifiedbyvisa { background: url('../png/lg/verifiedbyvisa.png') no-repeat right; }
 .pi.pi-lg.pi-visa { background: url('../png/lg/visa.png') no-repeat right; }
+.pi.pi-lg.pi-visaelectron { background: url('../png/lg/visaelectron.png') no-repeat right; }
 .pi.pi-lg.pi-webmoney { background: url('../png/lg/webmoney.png') no-repeat right; }
 .pi.pi-lg.pi-westernunion { background: url('../png/lg/westernunion.png') no-repeat right; }
 .pi.pi-lg.pi-wirecard { background: url('../png/lg/wirecard.png') no-repeat right; }

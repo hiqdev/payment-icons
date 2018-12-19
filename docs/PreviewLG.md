@@ -68,6 +68,7 @@
 ![unionpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/unionpay.png)
 ![verifiedbyvisa](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/verifiedbyvisa.png)
 ![visa](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/visa.png)
+![visaelectron](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/visaelectron.png)
 ![webmoney](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/webmoney.png)
 ![westernunion](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/westernunion.png)
 ![wirecard](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/wirecard.png)
