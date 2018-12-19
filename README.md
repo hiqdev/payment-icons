@@ -99,6 +99,7 @@ NPM package `payment-icons` is another similar project with fewer but SVG icons.
 ![maestro](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/maestro.png)
 ![maestro2](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/maestro2.png)
 ![mastercard](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/mastercard.png)
+![mir](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/mir.png)
 ![monero](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/monero.png)
 ![okpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/okpay.png)
 ![paxum](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/paxum.png)

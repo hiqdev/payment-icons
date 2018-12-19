@@ -43,6 +43,7 @@
 ![maestro](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/maestro.png)
 ![maestro2](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/maestro2.png)
 ![mastercard](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/mastercard.png)
+![mir](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/mir.png)
 ![monero](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/monero.png)
 ![okpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/okpay.png)
 ![paxum](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/paxum.png)
