@@ -1,5 +1,16 @@
 # hiqdev/payment-icons
 
+## [0.1.7] - 2018-12-19
+
+- Added **Мир** icon
+    - [d0220ea] 2018-12-19 Added `mir` icons [@hiqsol]
+- Updated **Visa** icon
+    - [790c1c0] 2018-12-19 Added new `visa` icons, renamed previous version to `visaelectron` [@hiqsol]
+- Other minor changes
+    - [d9b9c1a] 2018-12-19 rehideved [@hiqsol]
+    - [62953fe] 2018-01-27 csfixed [@hiqsol]
+    - [b13c293] 2018-01-14 csfixed [@hiqsol]
+
 ## [0.1.6] - 2017-12-05
 
     - [672c60d] 2017-12-05 Added aliases `2checkout` and `twoco` for 2Checkout payment system [@SilverFire]
@@ -140,7 +151,7 @@
 [33b494b]: https://github.com/hiqdev/payment-icons/commit/33b494b
 [f980e55]: https://github.com/hiqdev/payment-icons/commit/f980e55
 [b2f9775]: https://github.com/hiqdev/payment-icons/commit/b2f9775
-[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.5...HEAD
+[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.6...HEAD
 [0.1.0]: https://github.com/hiqdev/payment-icons/compare/0.0.4...0.1.0
 [0.0.4]: https://github.com/hiqdev/payment-icons/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/hiqdev/payment-icons/compare/0.0.2...0.0.3
@@ -163,3 +174,9 @@
 [0.1.5]: https://github.com/hiqdev/payment-icons/compare/0.1.4...0.1.5
 [672c60d]: https://github.com/hiqdev/payment-icons/commit/672c60d
 [0.1.6]: https://github.com/hiqdev/payment-icons/compare/0.1.5...0.1.6
+[790c1c0]: https://github.com/hiqdev/payment-icons/commit/790c1c0
+[d9b9c1a]: https://github.com/hiqdev/payment-icons/commit/d9b9c1a
+[d0220ea]: https://github.com/hiqdev/payment-icons/commit/d0220ea
+[62953fe]: https://github.com/hiqdev/payment-icons/commit/62953fe
+[b13c293]: https://github.com/hiqdev/payment-icons/commit/b13c293
+[0.1.7]: https://github.com/hiqdev/payment-icons/compare/0.1.6...0.1.7

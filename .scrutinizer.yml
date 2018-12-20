@@ -10,5 +10,4 @@ tools:
 build:
     nodes:
         analysis:
-            tests:
-                override: [php-scrutinizer-run]
+            tests: { override: [php-scrutinizer-run] }
