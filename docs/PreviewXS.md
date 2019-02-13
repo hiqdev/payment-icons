@@ -36,6 +36,7 @@
 ![giropay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/giropay.png)
 ![hsbc](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/hsbc.png)
 ![ideal](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/ideal.png)
+![ikajo](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/ikajo.png)
 ![interkassa](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/interkassa.png)
 ![jcb](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/jcb.png)
 ![liqpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/liqpay.png)

@@ -42,6 +42,7 @@
 .pi.pi-xs.pi-giropay, .pi.pi-giropay { background: url('../png/xs/giropay.png') no-repeat right; }
 .pi.pi-xs.pi-hsbc, .pi.pi-hsbc { background: url('../png/xs/hsbc.png') no-repeat right; }
 .pi.pi-xs.pi-ideal, .pi.pi-ideal { background: url('../png/xs/ideal.png') no-repeat right; }
+.pi.pi-xs.pi-ikajo, .pi.pi-ikajo { background: url('../png/xs/ikajo.png') no-repeat right; }
 .pi.pi-xs.pi-interkassa, .pi.pi-interkassa { background: url('../png/xs/interkassa.png') no-repeat right; }
 .pi.pi-xs.pi-jcb, .pi.pi-jcb { background: url('../png/xs/jcb.png') no-repeat right; }
 .pi.pi-xs.pi-liqpay, .pi.pi-liqpay { background: url('../png/xs/liqpay.png') no-repeat right; }
@@ -123,6 +124,7 @@
 .pi.pi-sm.pi-giropay { background: url('../png/sm/giropay.png') no-repeat right; }
 .pi.pi-sm.pi-hsbc { background: url('../png/sm/hsbc.png') no-repeat right; }
 .pi.pi-sm.pi-ideal { background: url('../png/sm/ideal.png') no-repeat right; }
+.pi.pi-sm.pi-ikajo { background: url('../png/sm/ikajo.png') no-repeat right; }
 .pi.pi-sm.pi-interkassa { background: url('../png/sm/interkassa.png') no-repeat right; }
 .pi.pi-sm.pi-jcb { background: url('../png/sm/jcb.png') no-repeat right; }
 .pi.pi-sm.pi-liqpay { background: url('../png/sm/liqpay.png') no-repeat right; }
@@ -204,6 +206,7 @@
 .pi.pi-md.pi-giropay { background: url('../png/md/giropay.png') no-repeat right; }
 .pi.pi-md.pi-hsbc { background: url('../png/md/hsbc.png') no-repeat right; }
 .pi.pi-md.pi-ideal { background: url('../png/md/ideal.png') no-repeat right; }
+.pi.pi-md.pi-ikajo { background: url('../png/md/ikajo.png') no-repeat right; }
 .pi.pi-md.pi-interkassa { background: url('../png/md/interkassa.png') no-repeat right; }
 .pi.pi-md.pi-jcb { background: url('../png/md/jcb.png') no-repeat right; }
 .pi.pi-md.pi-liqpay { background: url('../png/md/liqpay.png') no-repeat right; }
@@ -285,6 +288,7 @@
 .pi.pi-lg.pi-giropay { background: url('../png/lg/giropay.png') no-repeat right; }
 .pi.pi-lg.pi-hsbc { background: url('../png/lg/hsbc.png') no-repeat right; }
 .pi.pi-lg.pi-ideal { background: url('../png/lg/ideal.png') no-repeat right; }
+.pi.pi-lg.pi-ikajo { background: url('../png/lg/ikajo.png') no-repeat right; }
 .pi.pi-lg.pi-interkassa { background: url('../png/lg/interkassa.png') no-repeat right; }
 .pi.pi-lg.pi-jcb { background: url('../png/lg/jcb.png') no-repeat right; }
 .pi.pi-lg.pi-liqpay { background: url('../png/lg/liqpay.png') no-repeat right; }
