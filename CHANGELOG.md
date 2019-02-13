@@ -1,6 +1,11 @@
 # hiqdev/payment-icons
 
-## [0.1.7] - 2018-12-19
+## [0.1.18] - 2019-02-13
+
+- Added **Ikajo** payment system icons ([@SilverFire])
+- Added PSD templates of payment icons ([@SilverFire])
+
+## [0.1.7] - 2018-12-20
 
 - Added **Мир** icon ([@hiqsol])
 - Updated **Visa** icon ([@hiqsol])
@@ -67,7 +72,7 @@
 [andreyklochok@gmail.com]: https://github.com/tafid
 [@BladeRoot]: https://github.com/BladeRoot
 [bladeroot@gmail.com]: https://github.com/BladeRoot
-[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.6...HEAD
+[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.7...HEAD
 [0.1.0]: https://github.com/hiqdev/payment-icons/compare/0.0.4...0.1.0
 [0.0.4]: https://github.com/hiqdev/payment-icons/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/hiqdev/payment-icons/compare/0.0.2...0.0.3
@@ -80,3 +85,4 @@
 [0.1.5]: https://github.com/hiqdev/payment-icons/compare/0.1.4...0.1.5
 [0.1.6]: https://github.com/hiqdev/payment-icons/compare/0.1.5...0.1.6
 [0.1.7]: https://github.com/hiqdev/payment-icons/compare/0.1.6...0.1.7
+[0.1.18]: https://github.com/hiqdev/payment-icons/compare/0.1.7...0.1.18

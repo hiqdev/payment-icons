@@ -1,6 +1,13 @@
 # hiqdev/payment-icons
 
-## [0.1.7] - 2018-12-19
+## [0.1.18] - 2019-02-13
+
+- Added **Ikajo** payment system icons
+    - [efb466a] 2019-02-13 Added Ikajo icons [@SilverFire]
+- Added PSD templates of payment icons
+    - [29fa879] 2019-02-13 Added PSD templates [@SilverFire]
+
+## [0.1.7] - 2018-12-20
 
 - Added **Мир** icon
     - [d0220ea] 2018-12-19 Added `mir` icons [@hiqsol]
@@ -151,7 +158,7 @@
 [33b494b]: https://github.com/hiqdev/payment-icons/commit/33b494b
 [f980e55]: https://github.com/hiqdev/payment-icons/commit/f980e55
 [b2f9775]: https://github.com/hiqdev/payment-icons/commit/b2f9775
-[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.6...HEAD
+[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.7...HEAD
 [0.1.0]: https://github.com/hiqdev/payment-icons/compare/0.0.4...0.1.0
 [0.0.4]: https://github.com/hiqdev/payment-icons/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/hiqdev/payment-icons/compare/0.0.2...0.0.3
@@ -180,3 +187,6 @@
 [62953fe]: https://github.com/hiqdev/payment-icons/commit/62953fe
 [b13c293]: https://github.com/hiqdev/payment-icons/commit/b13c293
 [0.1.7]: https://github.com/hiqdev/payment-icons/compare/0.1.6...0.1.7
+[29fa879]: https://github.com/hiqdev/payment-icons/commit/29fa879
+[efb466a]: https://github.com/hiqdev/payment-icons/commit/efb466a
+[0.1.18]: https://github.com/hiqdev/payment-icons/compare/0.1.7...0.1.18
