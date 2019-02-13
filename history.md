@@ -4,6 +4,7 @@
 
 - Added **Ikajo** payment system icons
     - [efb466a] 2019-02-13 Added Ikajo icons [@SilverFire]
+    - [a941a05] 2019-02-13 Removed dark border from Ikajo icons [@SilverFire]
 - Added PSD templates of payment icons
     - [29fa879] 2019-02-13 Added PSD templates [@SilverFire]
 
@@ -158,7 +159,7 @@
 [33b494b]: https://github.com/hiqdev/payment-icons/commit/33b494b
 [f980e55]: https://github.com/hiqdev/payment-icons/commit/f980e55
 [b2f9775]: https://github.com/hiqdev/payment-icons/commit/b2f9775
-[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.7...HEAD
+[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.18...HEAD
 [0.1.0]: https://github.com/hiqdev/payment-icons/compare/0.0.4...0.1.0
 [0.0.4]: https://github.com/hiqdev/payment-icons/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/hiqdev/payment-icons/compare/0.0.2...0.0.3
@@ -190,3 +191,4 @@
 [29fa879]: https://github.com/hiqdev/payment-icons/commit/29fa879
 [efb466a]: https://github.com/hiqdev/payment-icons/commit/efb466a
 [0.1.18]: https://github.com/hiqdev/payment-icons/compare/0.1.7...0.1.18
+[a941a05]: https://github.com/hiqdev/payment-icons/commit/a941a05
