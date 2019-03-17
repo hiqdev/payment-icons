@@ -63,7 +63,7 @@
     },
     "extra": {
         "config-plugin": {
-            "hidev": "src/config/console.php"
+            "hidev": "config/console.php"
         }
     },
     "repositories": [
