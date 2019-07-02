@@ -22,6 +22,7 @@
 .pi.pi-xs.pi-cirrus, .pi.pi-cirrus { background: url('../png/xs/cirrus.png') no-repeat right; }
 .pi.pi-xs.pi-citibank, .pi.pi-citibank { background: url('../png/xs/citibank.png') no-repeat right; }
 .pi.pi-xs.pi-clickandbuy, .pi.pi-clickandbuy { background: url('../png/xs/clickandbuy.png') no-repeat right; }
+.pi.pi-xs.pi-coingate_xs, .pi.pi-coingate_xs { background: url('../png/xs/coingate_xs.png') no-repeat right; }
 .pi.pi-xs.pi-dash, .pi.pi-dash { background: url('../png/xs/dash.png') no-repeat right; }
 .pi.pi-xs.pi-delta, .pi.pi-delta { background: url('../png/xs/delta.png') no-repeat right; }
 .pi.pi-xs.pi-dineromail, .pi.pi-dineromail { background: url('../png/xs/dineromail.png') no-repeat right; }
@@ -104,6 +105,7 @@
 .pi.pi-sm.pi-cirrus { background: url('../png/sm/cirrus.png') no-repeat right; }
 .pi.pi-sm.pi-citibank { background: url('../png/sm/citibank.png') no-repeat right; }
 .pi.pi-sm.pi-clickandbuy { background: url('../png/sm/clickandbuy.png') no-repeat right; }
+.pi.pi-sm.pi-coingate_xs { background: url('../png/sm/coingate_xs.png') no-repeat right; }
 .pi.pi-sm.pi-dash { background: url('../png/sm/dash.png') no-repeat right; }
 .pi.pi-sm.pi-delta { background: url('../png/sm/delta.png') no-repeat right; }
 .pi.pi-sm.pi-dineromail { background: url('../png/sm/dineromail.png') no-repeat right; }
@@ -186,6 +188,7 @@
 .pi.pi-md.pi-cirrus { background: url('../png/md/cirrus.png') no-repeat right; }
 .pi.pi-md.pi-citibank { background: url('../png/md/citibank.png') no-repeat right; }
 .pi.pi-md.pi-clickandbuy { background: url('../png/md/clickandbuy.png') no-repeat right; }
+.pi.pi-md.pi-coingate_xs { background: url('../png/md/coingate_xs.png') no-repeat right; }
 .pi.pi-md.pi-dash { background: url('../png/md/dash.png') no-repeat right; }
 .pi.pi-md.pi-delta { background: url('../png/md/delta.png') no-repeat right; }
 .pi.pi-md.pi-dineromail { background: url('../png/md/dineromail.png') no-repeat right; }
@@ -268,6 +271,7 @@
 .pi.pi-lg.pi-cirrus { background: url('../png/lg/cirrus.png') no-repeat right; }
 .pi.pi-lg.pi-citibank { background: url('../png/lg/citibank.png') no-repeat right; }
 .pi.pi-lg.pi-clickandbuy { background: url('../png/lg/clickandbuy.png') no-repeat right; }
+.pi.pi-lg.pi-coingate_xs { background: url('../png/lg/coingate_xs.png') no-repeat right; }
 .pi.pi-lg.pi-dash { background: url('../png/lg/dash.png') no-repeat right; }
 .pi.pi-lg.pi-delta { background: url('../png/lg/delta.png') no-repeat right; }
 .pi.pi-lg.pi-dineromail { background: url('../png/lg/dineromail.png') no-repeat right; }

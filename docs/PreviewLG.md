@@ -16,6 +16,7 @@
 ![cirrus](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/cirrus.png)
 ![citibank](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/citibank.png)
 ![clickandbuy](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/clickandbuy.png)
+![coingate_xs](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/coingate_xs.png)
 ![dash](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/dash.png)
 ![delta](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/delta.png)
 ![dineromail](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/lg/dineromail.png)
