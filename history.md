@@ -1,5 +1,12 @@
 # hiqdev/payment-icons
 
+## [0.1.19] - 2019-07-02
+
+- Added CoinGate icons
+    - [67af548] 2019-07-02 Added CoinGate icons [@SilverFire]
+- Moved config to root dir
+    - [223d0b1] 2019-03-17 Moved config to root dir [@hiqsol]
+
 ## [0.1.18] - 2019-02-13
 
 - Added **Ikajo** payment system icons
@@ -192,3 +199,6 @@
 [efb466a]: https://github.com/hiqdev/payment-icons/commit/efb466a
 [0.1.18]: https://github.com/hiqdev/payment-icons/compare/0.1.7...0.1.18
 [a941a05]: https://github.com/hiqdev/payment-icons/commit/a941a05
+[67af548]: https://github.com/hiqdev/payment-icons/commit/67af548
+[223d0b1]: https://github.com/hiqdev/payment-icons/commit/223d0b1
+[0.1.19]: https://github.com/hiqdev/payment-icons/compare/0.1.18...0.1.19
