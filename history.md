@@ -1,5 +1,10 @@
 # hiqdev/payment-icons
 
+## [0.1.20] - 2019-07-03
+
+- Fixed wrong CoinGate icons filenames
+    - [94f7d53] 2019-07-03 Fixed wrong file names [@SilverFire]
+
 ## [0.1.19] - 2019-07-02
 
 - Added CoinGate icons
@@ -202,3 +207,5 @@
 [67af548]: https://github.com/hiqdev/payment-icons/commit/67af548
 [223d0b1]: https://github.com/hiqdev/payment-icons/commit/223d0b1
 [0.1.19]: https://github.com/hiqdev/payment-icons/compare/0.1.18...0.1.19
+[94f7d53]: https://github.com/hiqdev/payment-icons/commit/94f7d53
+[0.1.20]: https://github.com/hiqdev/payment-icons/compare/0.1.19...0.1.20
