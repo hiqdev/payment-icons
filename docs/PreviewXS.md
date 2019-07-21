@@ -76,4 +76,5 @@
 ![wirecard](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/wirecard.png)
 ![worldpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/worldpay.png)
 ![yandex](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/yandex.png)
+![yandexkassa](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/yandexkassa.png)
 ![zcash](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/zcash.png)
