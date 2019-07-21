@@ -1,5 +1,9 @@
 # hiqdev/payment-icons
 
+## [0.1.21] - 2019-07-21
+
+- Added YandexKassa icon ([@SilverFire])
+
 ## [0.1.20] - 2019-07-03
 
 - Fixed wrong CoinGate icons filenames ([@SilverFire])
@@ -81,7 +85,7 @@
 [andreyklochok@gmail.com]: https://github.com/tafid
 [@BladeRoot]: https://github.com/BladeRoot
 [bladeroot@gmail.com]: https://github.com/BladeRoot
-[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.18...HEAD
+[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.20...HEAD
 [0.1.0]: https://github.com/hiqdev/payment-icons/compare/0.0.4...0.1.0
 [0.0.4]: https://github.com/hiqdev/payment-icons/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/hiqdev/payment-icons/compare/0.0.2...0.0.3
@@ -97,3 +101,4 @@
 [0.1.18]: https://github.com/hiqdev/payment-icons/compare/0.1.7...0.1.18
 [0.1.19]: https://github.com/hiqdev/payment-icons/compare/0.1.18...0.1.19
 [0.1.20]: https://github.com/hiqdev/payment-icons/compare/0.1.19...0.1.20
+[0.1.21]: https://github.com/hiqdev/payment-icons/compare/0.1.20...0.1.21
