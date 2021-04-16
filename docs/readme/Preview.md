@@ -47,6 +47,7 @@
 ![mastercard](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/mastercard.png)
 ![mir](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/mir.png)
 ![monero](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/monero.png)
+![monobank](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/monobank.png)
 ![okpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/okpay.png)
 ![paxum](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/paxum.png)
 ![payoneer](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/payoneer.png)

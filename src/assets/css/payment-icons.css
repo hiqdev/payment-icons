@@ -53,6 +53,7 @@
 .pi.pi-xs.pi-mastercard, .pi.pi-mastercard { background: url('../png/xs/mastercard.png') no-repeat right; }
 .pi.pi-xs.pi-mir, .pi.pi-mir { background: url('../png/xs/mir.png') no-repeat right; }
 .pi.pi-xs.pi-monero, .pi.pi-monero { background: url('../png/xs/monero.png') no-repeat right; }
+.pi.pi-xs.pi-monobank, .pi.pi-monobank { background: url('../png/xs/monobank.png') no-repeat right; }
 .pi.pi-xs.pi-okpay, .pi.pi-okpay { background: url('../png/xs/okpay.png') no-repeat right; }
 .pi.pi-xs.pi-paxum, .pi.pi-paxum { background: url('../png/xs/paxum.png') no-repeat right; }
 .pi.pi-xs.pi-payoneer, .pi.pi-payoneer { background: url('../png/xs/payoneer.png') no-repeat right; }
@@ -138,6 +139,7 @@
 .pi.pi-sm.pi-mastercard { background: url('../png/sm/mastercard.png') no-repeat right; }
 .pi.pi-sm.pi-mir { background: url('../png/sm/mir.png') no-repeat right; }
 .pi.pi-sm.pi-monero { background: url('../png/sm/monero.png') no-repeat right; }
+.pi.pi-sm.pi-monobank { background: url('../png/sm/monobank.png') no-repeat right; }
 .pi.pi-sm.pi-okpay { background: url('../png/sm/okpay.png') no-repeat right; }
 .pi.pi-sm.pi-paxum { background: url('../png/sm/paxum.png') no-repeat right; }
 .pi.pi-sm.pi-payoneer { background: url('../png/sm/payoneer.png') no-repeat right; }
@@ -223,6 +225,7 @@
 .pi.pi-md.pi-mastercard { background: url('../png/md/mastercard.png') no-repeat right; }
 .pi.pi-md.pi-mir { background: url('../png/md/mir.png') no-repeat right; }
 .pi.pi-md.pi-monero { background: url('../png/md/monero.png') no-repeat right; }
+.pi.pi-md.pi-monobank { background: url('../png/md/monobank.png') no-repeat right; }
 .pi.pi-md.pi-okpay { background: url('../png/md/okpay.png') no-repeat right; }
 .pi.pi-md.pi-paxum { background: url('../png/md/paxum.png') no-repeat right; }
 .pi.pi-md.pi-payoneer { background: url('../png/md/payoneer.png') no-repeat right; }
@@ -308,6 +311,7 @@
 .pi.pi-lg.pi-mastercard { background: url('../png/lg/mastercard.png') no-repeat right; }
 .pi.pi-lg.pi-mir { background: url('../png/lg/mir.png') no-repeat right; }
 .pi.pi-lg.pi-monero { background: url('../png/lg/monero.png') no-repeat right; }
+.pi.pi-lg.pi-monobank { background: url('../png/lg/monobank.png') no-repeat right; }
 .pi.pi-lg.pi-okpay { background: url('../png/lg/okpay.png') no-repeat right; }
 .pi.pi-lg.pi-paxum { background: url('../png/lg/paxum.png') no-repeat right; }
 .pi.pi-lg.pi-payoneer { background: url('../png/lg/payoneer.png') no-repeat right; }
