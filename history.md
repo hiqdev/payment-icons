@@ -1,5 +1,10 @@
 # hiqdev/payment-icons
 
+## [0.1.24] - 2021-04-16
+
+- Add Monobank icon
+    - [2f20d50] 2021-04-16 Add Monobank icon [@SilverFire]
+
 ## [0.1.23] - 2021-04-16
 
 - Minor
@@ -232,3 +237,5 @@
 [1746c70]: https://github.com/hiqdev/payment-icons/commit/1746c70
 [336a302]: https://github.com/hiqdev/payment-icons/commit/336a302
 [0.1.23]: https://github.com/hiqdev/payment-icons/compare/0.1.22...0.1.23
+[2f20d50]: https://github.com/hiqdev/payment-icons/commit/2f20d50
+[0.1.24]: https://github.com/hiqdev/payment-icons/compare/0.1.23...0.1.24
