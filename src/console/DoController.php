@@ -17,6 +17,7 @@ class DoController extends \yii\console\Controller
 {
     private $iconsList;
     private $uniqueIconsList;
+    private $packageRootDir = __DIR__ . '/../..';
 
     /**
      * Returns list of icons.
@@ -69,7 +70,7 @@ class DoController extends \yii\console\Controller
      */
     public function fetchIconsList()
     {
-        $dir = Yii::getAlias('@hiqdev/paymenticons/assets/png/xs');
+        $dir = $this->packageRootDir . '/src/assets/png/xs';
         $files = scandir($dir);
         $list = [];
         foreach ($files as $file) {
@@ -123,7 +124,7 @@ class DoController extends \yii\console\Controller
 
     public function actionWriteCss()
     {
-        FileHelper::write('@hiqdev/paymenticons/assets/css/payment-icons.css', $this->genCss());
+        FileHelper::write($this->packageRootDir . '/src/assets/css/payment-icons.css', $this->genCss());
     }
 
     public function actionWritePreviews()
@@ -135,7 +136,7 @@ class DoController extends \yii\console\Controller
             foreach ($this->getUniqueIconsList() as $name) {
                 $str .= "![$name](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/$size/$name.png)\n";
             }
-            FileHelper::write('@hiqdev/paymenticons/../docs/Preview' . strtoupper($size) . '.md', $str);
+            FileHelper::write($this->packageRootDir . '/docs/Preview' . strtoupper($size) . '.md', $str);
             if ($size === 'xs') {
                 $ps = [];
                 foreach ($sizes as $s) {
@@ -143,7 +144,7 @@ class DoController extends \yii\console\Controller
                     $ps[] = "[$us](docs/Preview$us.md)";
                 }
                 $str .= "\n" . implode(' | ', $ps);
-                FileHelper::write('@hiqdev/paymenticons/../docs/readme/Preview.md', $str);
+                FileHelper::write($this->packageRootDir . '/docs/readme/Preview.md', $str);
             }
         }
     }
