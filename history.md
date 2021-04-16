@@ -1,7 +1,13 @@
 # hiqdev/payment-icons
 
+## [0.1.23] - 2021-04-16
+
+- Minor
+    - [1746c70] 2021-04-16 Merge remote-tracking branch 'origin/master' [@SilverFire]
+
 ## [0.1.22] - 2021-04-16
 
+    - [336a302] 2020-07-06 fixed aliased paths to real [smy980807@ukr.net]
 - Add yoomoney icon
     - [985b764] 2021-04-16 Add yoomoney icon [@SilverFire]
 
@@ -223,3 +229,6 @@
 [0.1.21]: https://github.com/hiqdev/payment-icons/compare/0.1.20...0.1.21
 [985b764]: https://github.com/hiqdev/payment-icons/commit/985b764
 [0.1.22]: https://github.com/hiqdev/payment-icons/compare/0.1.21...0.1.22
+[1746c70]: https://github.com/hiqdev/payment-icons/commit/1746c70
+[336a302]: https://github.com/hiqdev/payment-icons/commit/336a302
+[0.1.23]: https://github.com/hiqdev/payment-icons/compare/0.1.22...0.1.23
