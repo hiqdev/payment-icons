@@ -77,6 +77,7 @@
 ![worldpay](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/worldpay.png)
 ![yandex](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/yandex.png)
 ![yandexkassa](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/yandexkassa.png)
+![yoomoney](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/yoomoney.png)
 ![zcash](https://raw.githubusercontent.com/hiqdev/payment-icons/master/src/assets/png/xs/zcash.png)
 
 [XS](docs/PreviewXS.md) | [SM](docs/PreviewSM.md) | [MD](docs/PreviewMD.md) | [LG](docs/PreviewLG.md)

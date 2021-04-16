@@ -85,6 +85,7 @@
 .pi.pi-xs.pi-yandex, .pi.pi-yandex { background: url('../png/xs/yandex.png') no-repeat right; }
 .pi.pi-xs.pi-yandexkassa, .pi.pi-yandexkassa { background: url('../png/xs/yandexkassa.png') no-repeat right; }
 .pi.pi-xs.pi-yandexmoney, .pi.pi-yandexmoney { background: url('../png/xs/yandexmoney.png') no-repeat right; }
+.pi.pi-xs.pi-yoomoney, .pi.pi-yoomoney { background: url('../png/xs/yoomoney.png') no-repeat right; }
 .pi.pi-xs.pi-zcash, .pi.pi-zcash { background: url('../png/xs/zcash.png') no-repeat right; }
 
 .pi.pi-sm.pi-2checkout { background: url('../png/sm/2checkout.png') no-repeat right; }
@@ -169,6 +170,7 @@
 .pi.pi-sm.pi-yandex { background: url('../png/sm/yandex.png') no-repeat right; }
 .pi.pi-sm.pi-yandexkassa { background: url('../png/sm/yandexkassa.png') no-repeat right; }
 .pi.pi-sm.pi-yandexmoney { background: url('../png/sm/yandexmoney.png') no-repeat right; }
+.pi.pi-sm.pi-yoomoney { background: url('../png/sm/yoomoney.png') no-repeat right; }
 .pi.pi-sm.pi-zcash { background: url('../png/sm/zcash.png') no-repeat right; }
 
 .pi.pi-md.pi-2checkout { background: url('../png/md/2checkout.png') no-repeat right; }
@@ -253,6 +255,7 @@
 .pi.pi-md.pi-yandex { background: url('../png/md/yandex.png') no-repeat right; }
 .pi.pi-md.pi-yandexkassa { background: url('../png/md/yandexkassa.png') no-repeat right; }
 .pi.pi-md.pi-yandexmoney { background: url('../png/md/yandexmoney.png') no-repeat right; }
+.pi.pi-md.pi-yoomoney { background: url('../png/md/yoomoney.png') no-repeat right; }
 .pi.pi-md.pi-zcash { background: url('../png/md/zcash.png') no-repeat right; }
 
 .pi.pi-lg.pi-2checkout { background: url('../png/lg/2checkout.png') no-repeat right; }
@@ -337,5 +340,6 @@
 .pi.pi-lg.pi-yandex { background: url('../png/lg/yandex.png') no-repeat right; }
 .pi.pi-lg.pi-yandexkassa { background: url('../png/lg/yandexkassa.png') no-repeat right; }
 .pi.pi-lg.pi-yandexmoney { background: url('../png/lg/yandexmoney.png') no-repeat right; }
+.pi.pi-lg.pi-yoomoney { background: url('../png/lg/yoomoney.png') no-repeat right; }
 .pi.pi-lg.pi-zcash { background: url('../png/lg/zcash.png') no-repeat right; }
 
