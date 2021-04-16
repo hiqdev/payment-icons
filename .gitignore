@@ -1,9 +1,3 @@
-# hidev internals
-/.hidev/composer.json
-/.hidev/composer.lock
-/.hidev/runtime
-/.hidev/vendor
-
 # local config
 /.env
 /hidev-local.yml
@@ -15,6 +9,7 @@
 .idea
 .project
 .settings
+/lsp
 Thumbs.db
 nbproject
 
@@ -36,3 +31,9 @@ php-cs-fixer.phar
 phpstan.phar
 phpunit-skelgen.phar
 phpunit.phar
+
+# hidev internals
+/.hidev/composer.json
+/.hidev/composer.lock
+/.hidev/runtime
+/.hidev/vendor

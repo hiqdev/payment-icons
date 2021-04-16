@@ -1,5 +1,10 @@
 # hiqdev/payment-icons
 
+## [0.1.22] - 2021-04-16
+
+- Add yoomoney icon
+    - [985b764] 2021-04-16 Add yoomoney icon [@SilverFire]
+
 ## [0.1.21] - 2019-07-21
 
 - Added YandexKassa icon
@@ -176,7 +181,7 @@
 [33b494b]: https://github.com/hiqdev/payment-icons/commit/33b494b
 [f980e55]: https://github.com/hiqdev/payment-icons/commit/f980e55
 [b2f9775]: https://github.com/hiqdev/payment-icons/commit/b2f9775
-[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.20...HEAD
+[Under development]: https://github.com/hiqdev/payment-icons/compare/0.1.21...HEAD
 [0.1.0]: https://github.com/hiqdev/payment-icons/compare/0.0.4...0.1.0
 [0.0.4]: https://github.com/hiqdev/payment-icons/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/hiqdev/payment-icons/compare/0.0.2...0.0.3
@@ -216,3 +221,5 @@
 [0.1.20]: https://github.com/hiqdev/payment-icons/compare/0.1.19...0.1.20
 [7264945]: https://github.com/hiqdev/payment-icons/commit/7264945
 [0.1.21]: https://github.com/hiqdev/payment-icons/compare/0.1.20...0.1.21
+[985b764]: https://github.com/hiqdev/payment-icons/commit/985b764
+[0.1.22]: https://github.com/hiqdev/payment-icons/compare/0.1.21...0.1.22
